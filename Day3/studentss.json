@@ -1,0 +1,31 @@
+[
+    {
+        "id": "1",
+        "name": "abc",
+        "age": 20,
+        "subjects": [
+            {
+                "name": "CS",
+                "marks": 90.0,
+                "grade": "A"
+            },
+            {
+                "name": "100",
+                "marks": 100.0,
+                "grade": "A"
+            }
+        ]
+    },
+    {
+        "id": "2",
+        "name": "def",
+        "age": 20,
+        "subjects": [
+            {
+                "name": "AI",
+                "marks": 85.0,
+                "grade": "A-"
+            }
+        ]
+    }
+]
