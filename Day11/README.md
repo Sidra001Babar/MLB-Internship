@@ -103,19 +103,14 @@ Softmax
 
 ---
 
+
 # Model Performance
 
-## Final Training Accuracy
-
-**97.05%**
-
-## Final Validation Accuracy
-
-**91.78%**
-
-## Test Accuracy
-
-**91%**
+| **Metric** | **Accuracy** |
+|------------|-------------:|
+| Final Training Accuracy | **97.05%** |
+| Final Validation Accuracy | **91.78%** |
+| Test Accuracy | **91.00%** |
 
 
 # Training Graphs
