@@ -158,7 +158,7 @@ Testing on a new traffic video introduced variations in object size, position, t
 
 # Limitations
 
-The current model has weaker performance on underrepresented classes, especially `Truck` and `Bicycle`.
+The current model has weaker performance on underrepresented classes.
 
 The main reason is the limited number of training examples for these classes.
 
@@ -169,7 +169,7 @@ The current dataset can be improved by collecting more examples for minority cla
 # Future Improvements
 
 - Increase the overall dataset size.
-- Collect more `Truck` and `Bicycle` images.
+- Collect more frames.
 - Balance the number of objects across classes.
 - Collect traffic videos from different locations.
 - Include different lighting and weather conditions.
