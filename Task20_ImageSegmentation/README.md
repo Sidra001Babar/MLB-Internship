@@ -101,6 +101,13 @@ Model 2 achieved:
 
 Although Model 2 took slightly longer to train (**11.04 min vs 9.94 min**), it provided substantially better segmentation performance.
 
-The main reason is that the pretrained model started with useful visual features learned from the COCO dataset. With only **40 training images**, transfer learning gives the model a strong initialization, whereas the scratch model has to learn useful visual representations from a very small dataset.
+### Reason for Difference Between Model 1 and Model 2
 
-Overall, this experiment demonstrates that **fine-tuning pretrained weights is much more effective than training from scratch for a small custom instance segmentation dataset**.
+- **Model 1** (`yolov8n-seg.yaml`) is trained **from scratch**, so all weights start randomly. It must learn basic features, object shapes, and laptop segmentation from the dataset itself.
+- **Model 2** (`yolov8n-seg.pt`) uses **COCO pretrained weights**, so it already has learned useful visual features such as edges, shapes, textures, and object boundaries.
+- Both models use the same dataset, epochs, image size, and batch size, but **50 epochs may not be enough for the scratch model** to learn good features.
+- Therefore, Model 2 produces a much better laptop segmentation because **transfer learning gives it a strong starting point**, while Model 1 has to learn everything from zero.
+
+**In short:**  
+`Pretrained weights → faster/better learning → better segmentation`  
+`Random weights → needs more training/data → poorer result at 50 epochs`
