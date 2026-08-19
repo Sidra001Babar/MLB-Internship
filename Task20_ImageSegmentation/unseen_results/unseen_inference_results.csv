@@ -1,0 +1,3 @@
+Model,Total Inference Time (seconds),Average Inference Time (ms/image)
+YOLOv8n-seg Scratch,3.1636,632.73
+YOLOv8n-seg COCO Pretrained,0.7786,155.72
