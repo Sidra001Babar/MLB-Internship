@@ -1,0 +1,2921 @@
+{
+    "image": "3.png",
+    "deskew_angle": 0.0,
+    "perspective_correction": true,
+    "raw_ocr": [
+        {
+            "text": "Nabihah",
+            "confidence": 100.0,
+            "bbox": [
+                [
+                    46,
+                    41
+                ],
+                [
+                    149,
+                    41
+                ],
+                [
+                    149,
+                    69
+                ],
+                [
+                    46,
+                    69
+                ]
+            ],
+            "coordinates": [
+                46,
+                41,
+                149,
+                69
+            ]
+        },
+        {
+            "text": "Details",
+            "confidence": 100.0,
+            "bbox": [
+                [
+                    251,
+                    63
+                ],
+                [
+                    295,
+                    63
+                ],
+                [
+                    295,
+                    77
+                ],
+                [
+                    251,
+                    77
+                ]
+            ],
+            "coordinates": [
+                251,
+                63,
+                295,
+                77
+            ]
+        },
+        {
+            "text": "Mcgeehon",
+            "confidence": 99.99,
+            "bbox": [
+                [
+                    45,
+                    70
+                ],
+                [
+                    171,
+                    70
+                ],
+                [
+                    171,
+                    106
+                ],
+                [
+                    45,
+                    106
+                ]
+            ],
+            "coordinates": [
+                45,
+                70,
+                171,
+                106
+            ]
+        },
+        {
+            "text": "nabihah mceehon@gmailcom",
+            "confidence": 74.45,
+            "bbox": [
+                [
+                    250,
+                    80
+                ],
+                [
+                    407,
+                    80
+                ],
+                [
+                    407,
+                    95
+                ],
+                [
+                    250,
+                    95
+                ]
+            ],
+            "coordinates": [
+                250,
+                80,
+                407,
+                95
+            ]
+        },
+        {
+            "text": "(455) 918-8162",
+            "confidence": 91.17,
+            "bbox": [
+                [
+                    249,
+                    94
+                ],
+                [
+                    324,
+                    94
+                ],
+                [
+                    324,
+                    109
+                ],
+                [
+                    249,
+                    109
+                ]
+            ],
+            "coordinates": [
+                249,
+                94,
+                324,
+                109
+            ]
+        },
+        {
+            "text": "NVH Engineer",
+            "confidence": 99.97,
+            "bbox": [
+                [
+                    46,
+                    103
+                ],
+                [
+                    158,
+                    103
+                ],
+                [
+                    158,
+                    128
+                ],
+                [
+                    46,
+                    128
+                ]
+            ],
+            "coordinates": [
+                46,
+                103,
+                158,
+                128
+            ]
+        },
+        {
+            "text": "127 Oak Street; Little Rock, AR 72201",
+            "confidence": 64.5,
+            "bbox": [
+                [
+                    251,
+                    109
+                ],
+                [
+                    428,
+                    109
+                ],
+                [
+                    428,
+                    124
+                ],
+                [
+                    251,
+                    124
+                ]
+            ],
+            "coordinates": [
+                251,
+                109,
+                428,
+                124
+            ]
+        },
+        {
+            "text": "Profile",
+            "confidence": 99.99,
+            "bbox": [
+                [
+                    46,
+                    163
+                ],
+                [
+                    89,
+                    163
+                ],
+                [
+                    89,
+                    178
+                ],
+                [
+                    46,
+                    178
+                ]
+            ],
+            "coordinates": [
+                46,
+                163,
+                89,
+                178
+            ]
+        },
+        {
+            "text": "NVH Engineer with 1 year of experience in the automotive industry,",
+            "confidence": 74.07,
+            "bbox": [
+                [
+                    250,
+                    164
+                ],
+                [
+                    574,
+                    164
+                ],
+                [
+                    574,
+                    182
+                ],
+                [
+                    250,
+                    182
+                ]
+            ],
+            "coordinates": [
+                250,
+                164,
+                574,
+                182
+            ]
+        },
+        {
+            "text": "demonstrating expertise in noise, vibration, and harshness analysis and",
+            "confidence": 76.6,
+            "bbox": [
+                [
+                    249,
+                    178
+                ],
+                [
+                    596,
+                    178
+                ],
+                [
+                    596,
+                    196
+                ],
+                [
+                    249,
+                    196
+                ]
+            ],
+            "coordinates": [
+                249,
+                178,
+                596,
+                196
+            ]
+        },
+        {
+            "text": "mitigation. Proficient in using advanced simulation tools and testing",
+            "confidence": 77.71,
+            "bbox": [
+                [
+                    250,
+                    193
+                ],
+                [
+                    581,
+                    193
+                ],
+                [
+                    581,
+                    212
+                ],
+                [
+                    250,
+                    212
+                ]
+            ],
+            "coordinates": [
+                250,
+                193,
+                581,
+                212
+            ]
+        },
+        {
+            "text": "techniques to optimize vehicle performance and comfort: Skilled in",
+            "confidence": 80.07,
+            "bbox": [
+                [
+                    250,
+                    209
+                ],
+                [
+                    575,
+                    209
+                ],
+                [
+                    575,
+                    226
+                ],
+                [
+                    250,
+                    226
+                ]
+            ],
+            "coordinates": [
+                250,
+                209,
+                575,
+                226
+            ]
+        },
+        {
+            "text": "collaborating with cross-functional teams to ensure design objectives are",
+            "confidence": 74.94,
+            "bbox": [
+                [
+                    249,
+                    223
+                ],
+                [
+                    604,
+                    223
+                ],
+                [
+                    604,
+                    242
+                ],
+                [
+                    249,
+                    242
+                ]
+            ],
+            "coordinates": [
+                249,
+                223,
+                604,
+                242
+            ]
+        },
+        {
+            "text": "met while adhering to industry standards and regulations. A motivated",
+            "confidence": 76.0,
+            "bbox": [
+                [
+                    250,
+                    239
+                ],
+                [
+                    591,
+                    239
+                ],
+                [
+                    591,
+                    257
+                ],
+                [
+                    250,
+                    257
+                ]
+            ],
+            "coordinates": [
+                250,
+                239,
+                591,
+                257
+            ]
+        },
+        {
+            "text": "problem solver, committed to continuous learning and improvement in",
+            "confidence": 91.21,
+            "bbox": [
+                [
+                    249,
+                    253
+                ],
+                [
+                    594,
+                    253
+                ],
+                [
+                    594,
+                    272
+                ],
+                [
+                    249,
+                    272
+                ]
+            ],
+            "coordinates": [
+                249,
+                253,
+                594,
+                272
+            ]
+        },
+        {
+            "text": "the field of NVH engineering:",
+            "confidence": 86.12,
+            "bbox": [
+                [
+                    250,
+                    270
+                ],
+                [
+                    391,
+                    270
+                ],
+                [
+                    391,
+                    286
+                ],
+                [
+                    250,
+                    286
+                ]
+            ],
+            "coordinates": [
+                250,
+                270,
+                391,
+                286
+            ]
+        },
+        {
+            "text": "Employment History",
+            "confidence": 91.06,
+            "bbox": [
+                [
+                    45,
+                    322
+                ],
+                [
+                    172,
+                    322
+                ],
+                [
+                    172,
+                    341
+                ],
+                [
+                    45,
+                    341
+                ]
+            ],
+            "coordinates": [
+                45,
+                322,
+                172,
+                341
+            ]
+        },
+        {
+            "text": "NVH Engineer at Caterpillar Inc,, AR",
+            "confidence": 70.61,
+            "bbox": [
+                [
+                    250,
+                    325
+                ],
+                [
+                    444,
+                    325
+                ],
+                [
+                    444,
+                    343
+                ],
+                [
+                    250,
+                    343
+                ]
+            ],
+            "coordinates": [
+                250,
+                325,
+                444,
+                343
+            ]
+        },
+        {
+            "text": "Apr 2023 . Present",
+            "confidence": 62.03,
+            "bbox": [
+                [
+                    250,
+                    342
+                ],
+                [
+                    333,
+                    342
+                ],
+                [
+                    333,
+                    355
+                ],
+                [
+                    250,
+                    355
+                ]
+            ],
+            "coordinates": [
+                250,
+                342,
+                333,
+                355
+            ]
+        },
+        {
+            "text": "Led a team that achieved a 2030 reduction in noise levels for heavy",
+            "confidence": 69.79,
+            "bbox": [
+                [
+                    270,
+                    361
+                ],
+                [
+                    592,
+                    361
+                ],
+                [
+                    592,
+                    377
+                ],
+                [
+                    270,
+                    377
+                ]
+            ],
+            "coordinates": [
+                270,
+                361,
+                592,
+                377
+            ]
+        },
+        {
+            "text": "machinery, resulting in improved operator comfort and compliance",
+            "confidence": 92.26,
+            "bbox": [
+                [
+                    271,
+                    374
+                ],
+                [
+                    597,
+                    374
+                ],
+                [
+                    597,
+                    393
+                ],
+                [
+                    271,
+                    393
+                ]
+            ],
+            "coordinates": [
+                271,
+                374,
+                597,
+                393
+            ]
+        },
+        {
+            "text": "with government regulations:",
+            "confidence": 65.09,
+            "bbox": [
+                [
+                    270,
+                    390
+                ],
+                [
+                    417,
+                    390
+                ],
+                [
+                    417,
+                    408
+                ],
+                [
+                    270,
+                    408
+                ]
+            ],
+            "coordinates": [
+                270,
+                390,
+                417,
+                408
+            ]
+        },
+        {
+            "text": "Developed and implemented an innovative vibration isolation system",
+            "confidence": 96.34,
+            "bbox": [
+                [
+                    271,
+                    406
+                ],
+                [
+                    604,
+                    406
+                ],
+                [
+                    604,
+                    423
+                ],
+                [
+                    271,
+                    423
+                ]
+            ],
+            "coordinates": [
+                271,
+                406,
+                604,
+                423
+            ]
+        },
+        {
+            "text": "that reduced vibrations by 25% in key components, extending the",
+            "confidence": 91.25,
+            "bbox": [
+                [
+                    270,
+                    420
+                ],
+                [
+                    588,
+                    420
+                ],
+                [
+                    588,
+                    438
+                ],
+                [
+                    270,
+                    438
+                ]
+            ],
+            "coordinates": [
+                270,
+                420,
+                588,
+                438
+            ]
+        },
+        {
+            "text": "lifespan of equipment by 1596.",
+            "confidence": 64.57,
+            "bbox": [
+                [
+                    269,
+                    435
+                ],
+                [
+                    420,
+                    435
+                ],
+                [
+                    420,
+                    454
+                ],
+                [
+                    269,
+                    454
+                ]
+            ],
+            "coordinates": [
+                269,
+                435,
+                420,
+                454
+            ]
+        },
+        {
+            "text": "Successfully managed a S1.5 million budget for NVH-related projects,",
+            "confidence": 68.65,
+            "bbox": [
+                [
+                    271,
+                    452
+                ],
+                [
+                    604,
+                    452
+                ],
+                [
+                    604,
+                    468
+                ],
+                [
+                    271,
+                    468
+                ]
+            ],
+            "coordinates": [
+                271,
+                452,
+                604,
+                468
+            ]
+        },
+        {
+            "text": "ensuring timely completion and maximizing return on investment:",
+            "confidence": 77.09,
+            "bbox": [
+                [
+                    270,
+                    464
+                ],
+                [
+                    592,
+                    464
+                ],
+                [
+                    592,
+                    484
+                ],
+                [
+                    270,
+                    484
+                ]
+            ],
+            "coordinates": [
+                270,
+                464,
+                592,
+                484
+            ]
+        },
+        {
+            "text": "Collaborated with cross-functional teams to optimize product",
+            "confidence": 57.93,
+            "bbox": [
+                [
+                    271,
+                    481
+                ],
+                [
+                    570,
+                    481
+                ],
+                [
+                    570,
+                    497
+                ],
+                [
+                    271,
+                    497
+                ]
+            ],
+            "coordinates": [
+                271,
+                481,
+                570,
+                497
+            ]
+        },
+        {
+            "text": "designs, resulting in a 1096 improvement in overall machine",
+            "confidence": 67.36,
+            "bbox": [
+                [
+                    270,
+                    495
+                ],
+                [
+                    560,
+                    495
+                ],
+                [
+                    560,
+                    513
+                ],
+                [
+                    270,
+                    513
+                ]
+            ],
+            "coordinates": [
+                270,
+                495,
+                560,
+                513
+            ]
+        },
+        {
+            "text": "performance and a 590 reduction in warranty claims related to NVH",
+            "confidence": 94.63,
+            "bbox": [
+                [
+                    271,
+                    511
+                ],
+                [
+                    594,
+                    511
+                ],
+                [
+                    594,
+                    527
+                ],
+                [
+                    271,
+                    527
+                ]
+            ],
+            "coordinates": [
+                271,
+                511,
+                594,
+                527
+            ]
+        },
+        {
+            "text": "issues:",
+            "confidence": 59.78,
+            "bbox": [
+                [
+                    271,
+                    527
+                ],
+                [
+                    307,
+                    527
+                ],
+                [
+                    307,
+                    541
+                ],
+                [
+                    271,
+                    541
+                ]
+            ],
+            "coordinates": [
+                271,
+                527,
+                307,
+                541
+            ]
+        },
+        {
+            "text": "Associate NVH Engineer at Hytrol Conveyor Company, AR",
+            "confidence": 84.3,
+            "bbox": [
+                [
+                    250,
+                    553
+                ],
+                [
+                    559,
+                    553
+                ],
+                [
+                    559,
+                    571
+                ],
+                [
+                    250,
+                    571
+                ]
+            ],
+            "coordinates": [
+                250,
+                553,
+                559,
+                571
+            ]
+        },
+        {
+            "text": "Jul 2022 - Mar 2023",
+            "confidence": 65.43,
+            "bbox": [
+                [
+                    251,
+                    570
+                ],
+                [
+                    336,
+                    570
+                ],
+                [
+                    336,
+                    582
+                ],
+                [
+                    251,
+                    582
+                ]
+            ],
+            "coordinates": [
+                251,
+                570,
+                336,
+                582
+            ]
+        },
+        {
+            "text": "Significantly reduced noiselevelsofconveyor systems by 30%through",
+            "confidence": 64.47,
+            "bbox": [
+                [
+                    271,
+                    589
+                ],
+                [
+                    605,
+                    589
+                ],
+                [
+                    605,
+                    605
+                ],
+                [
+                    271,
+                    605
+                ]
+            ],
+            "coordinates": [
+                271,
+                589,
+                605,
+                605
+            ]
+        },
+        {
+            "text": "implementing advanced noise reduction techniques and materials;",
+            "confidence": 68.86,
+            "bbox": [
+                [
+                    271,
+                    604
+                ],
+                [
+                    595,
+                    604
+                ],
+                [
+                    595,
+                    620
+                ],
+                [
+                    271,
+                    620
+                ]
+            ],
+            "coordinates": [
+                271,
+                604,
+                595,
+                620
+            ]
+        },
+        {
+            "text": "resulting in improved workplace safety and customer satisfaction.",
+            "confidence": 80.41,
+            "bbox": [
+                [
+                    270,
+                    617
+                ],
+                [
+                    589,
+                    617
+                ],
+                [
+                    589,
+                    636
+                ],
+                [
+                    270,
+                    636
+                ]
+            ],
+            "coordinates": [
+                270,
+                617,
+                589,
+                636
+            ]
+        },
+        {
+            "text": "Developed and validated a new simulation model for predicting",
+            "confidence": 74.72,
+            "bbox": [
+                [
+                    271,
+                    634
+                ],
+                [
+                    579,
+                    634
+                ],
+                [
+                    579,
+                    650
+                ],
+                [
+                    271,
+                    650
+                ]
+            ],
+            "coordinates": [
+                271,
+                634,
+                579,
+                650
+            ]
+        },
+        {
+            "text": "vibrations in conveyor systems, which increased the accuracy of",
+            "confidence": 77.35,
+            "bbox": [
+                [
+                    271,
+                    649
+                ],
+                [
+                    580,
+                    649
+                ],
+                [
+                    580,
+                    665
+                ],
+                [
+                    271,
+                    665
+                ]
+            ],
+            "coordinates": [
+                271,
+                649,
+                580,
+                665
+            ]
+        },
+        {
+            "text": "predictions by 25%0 and streamlined the design process:",
+            "confidence": 70.91,
+            "bbox": [
+                [
+                    270,
+                    664
+                ],
+                [
+                    541,
+                    664
+                ],
+                [
+                    541,
+                    680
+                ],
+                [
+                    270,
+                    680
+                ]
+            ],
+            "coordinates": [
+                270,
+                664,
+                541,
+                680
+            ]
+        },
+        {
+            "text": "Successfully led a cross-functional team in the development and",
+            "confidence": 87.5,
+            "bbox": [
+                [
+                    271,
+                    679
+                ],
+                [
+                    582,
+                    679
+                ],
+                [
+                    582,
+                    695
+                ],
+                [
+                    271,
+                    695
+                ]
+            ],
+            "coordinates": [
+                271,
+                679,
+                582,
+                695
+            ]
+        },
+        {
+            "text": "Iaunch ofa new conveyor system that increased throughput by 2090,",
+            "confidence": 40.16,
+            "bbox": [
+                [
+                    271,
+                    694
+                ],
+                [
+                    601,
+                    694
+                ],
+                [
+                    601,
+                    710
+                ],
+                [
+                    271,
+                    710
+                ]
+            ],
+            "coordinates": [
+                271,
+                694,
+                601,
+                710
+            ]
+        },
+        {
+            "text": "reducing operational costs for clients and boosting sales for the",
+            "confidence": 83.69,
+            "bbox": [
+                [
+                    270,
+                    707
+                ],
+                [
+                    577,
+                    707
+                ],
+                [
+                    577,
+                    726
+                ],
+                [
+                    270,
+                    726
+                ]
+            ],
+            "coordinates": [
+                270,
+                707,
+                577,
+                726
+            ]
+        },
+        {
+            "text": "company:",
+            "confidence": 76.45,
+            "bbox": [
+                [
+                    271,
+                    727
+                ],
+                [
+                    321,
+                    727
+                ],
+                [
+                    321,
+                    739
+                ],
+                [
+                    271,
+                    739
+                ]
+            ],
+            "coordinates": [
+                271,
+                727,
+                321,
+                739
+            ]
+        },
+        {
+            "text": "Implemented an enhanced testing process for conveyor components,",
+            "confidence": 72.19,
+            "bbox": [
+                [
+                    270,
+                    738
+                ],
+                [
+                    605,
+                    738
+                ],
+                [
+                    605,
+                    756
+                ],
+                [
+                    270,
+                    756
+                ]
+            ],
+            "coordinates": [
+                270,
+                738,
+                605,
+                756
+            ]
+        },
+        {
+            "text": "leading to a 15% reduction in warranty claims due to NVH-related",
+            "confidence": 79.9,
+            "bbox": [
+                [
+                    269,
+                    753
+                ],
+                [
+                    586,
+                    753
+                ],
+                [
+                    586,
+                    771
+                ],
+                [
+                    269,
+                    771
+                ]
+            ],
+            "coordinates": [
+                269,
+                753,
+                586,
+                771
+            ]
+        },
+        {
+            "text": "issues and contributing to a overall increase in product quality and",
+            "confidence": 78.77,
+            "bbox": [
+                [
+                    270,
+                    767
+                ],
+                [
+                    599,
+                    767
+                ],
+                [
+                    599,
+                    786
+                ],
+                [
+                    270,
+                    786
+                ]
+            ],
+            "coordinates": [
+                270,
+                767,
+                599,
+                786
+            ]
+        },
+        {
+            "text": "reliability:",
+            "confidence": 75.53,
+            "bbox": [
+                [
+                    270,
+                    784
+                ],
+                [
+                    323,
+                    784
+                ],
+                [
+                    323,
+                    800
+                ],
+                [
+                    270,
+                    800
+                ]
+            ],
+            "coordinates": [
+                270,
+                784,
+                323,
+                800
+            ]
+        },
+        {
+            "text": "Education",
+            "confidence": 100.0,
+            "bbox": [
+                [
+                    46,
+                    837
+                ],
+                [
+                    109,
+                    837
+                ],
+                [
+                    109,
+                    852
+                ],
+                [
+                    46,
+                    852
+                ]
+            ],
+            "coordinates": [
+                46,
+                837,
+                109,
+                852
+            ]
+        },
+        {
+            "text": "Bachelor of Science in Mechanical Engineering with a focus on",
+            "confidence": 78.62,
+            "bbox": [
+                [
+                    250,
+                    839
+                ],
+                [
+                    586,
+                    839
+                ],
+                [
+                    586,
+                    857
+                ],
+                [
+                    250,
+                    857
+                ]
+            ],
+            "coordinates": [
+                250,
+                839,
+                586,
+                857
+            ]
+        },
+        {
+            "text": "Noise, Vibration, and Harshness (NVH) at University of Arkansas,",
+            "confidence": 70.56,
+            "bbox": [
+                [
+                    250,
+                    854
+                ],
+                [
+                    598,
+                    854
+                ],
+                [
+                    598,
+                    873
+                ],
+                [
+                    250,
+                    873
+                ]
+            ],
+            "coordinates": [
+                250,
+                854,
+                598,
+                873
+            ]
+        },
+        {
+            "text": "Fayetteville; AR",
+            "confidence": 53.53,
+            "bbox": [
+                [
+                    251,
+                    873
+                ],
+                [
+                    337,
+                    873
+                ],
+                [
+                    337,
+                    889
+                ],
+                [
+                    251,
+                    889
+                ]
+            ],
+            "coordinates": [
+                251,
+                873,
+                337,
+                889
+            ]
+        },
+        {
+            "text": "Aug 2018 - May 2022",
+            "confidence": 99.03,
+            "bbox": [
+                [
+                    249,
+                    886
+                ],
+                [
+                    341,
+                    886
+                ],
+                [
+                    341,
+                    902
+                ],
+                [
+                    249,
+                    902
+                ]
+            ],
+            "coordinates": [
+                249,
+                886,
+                341,
+                902
+            ]
+        }
+    ],
+    "enhanced_ocr": [
+        {
+            "text": "Nabihah",
+            "confidence": 99.99,
+            "bbox": [
+                [
+                    42,
+                    37
+                ],
+                [
+                    145,
+                    37
+                ],
+                [
+                    145,
+                    64
+                ],
+                [
+                    42,
+                    64
+                ]
+            ],
+            "coordinates": [
+                42,
+                37,
+                145,
+                64
+            ]
+        },
+        {
+            "text": "Details",
+            "confidence": 100.0,
+            "bbox": [
+                [
+                    246,
+                    58
+                ],
+                [
+                    291,
+                    58
+                ],
+                [
+                    291,
+                    73
+                ],
+                [
+                    246,
+                    73
+                ]
+            ],
+            "coordinates": [
+                246,
+                58,
+                291,
+                73
+            ]
+        },
+        {
+            "text": "Mcgeehon",
+            "confidence": 90.54,
+            "bbox": [
+                [
+                    42,
+                    67
+                ],
+                [
+                    167,
+                    67
+                ],
+                [
+                    167,
+                    101
+                ],
+                [
+                    42,
+                    101
+                ]
+            ],
+            "coordinates": [
+                42,
+                67,
+                167,
+                101
+            ]
+        },
+        {
+            "text": "pabihah mcgeehon@gmailcom",
+            "confidence": 62.19,
+            "bbox": [
+                [
+                    246,
+                    75
+                ],
+                [
+                    403,
+                    75
+                ],
+                [
+                    403,
+                    91
+                ],
+                [
+                    246,
+                    91
+                ]
+            ],
+            "coordinates": [
+                246,
+                75,
+                403,
+                91
+            ]
+        },
+        {
+            "text": "(455) 918-8162",
+            "confidence": 55.31,
+            "bbox": [
+                [
+                    245,
+                    89
+                ],
+                [
+                    320,
+                    89
+                ],
+                [
+                    320,
+                    105
+                ],
+                [
+                    245,
+                    105
+                ]
+            ],
+            "coordinates": [
+                245,
+                89,
+                320,
+                105
+            ]
+        },
+        {
+            "text": "NVH Engineer",
+            "confidence": 97.75,
+            "bbox": [
+                [
+                    42,
+                    98
+                ],
+                [
+                    153,
+                    98
+                ],
+                [
+                    153,
+                    123
+                ],
+                [
+                    42,
+                    123
+                ]
+            ],
+            "coordinates": [
+                42,
+                98,
+                153,
+                123
+            ]
+        },
+        {
+            "text": "127 Oak Street; Little Rock, AR 72201",
+            "confidence": 48.92,
+            "bbox": [
+                [
+                    246,
+                    105
+                ],
+                [
+                    424,
+                    105
+                ],
+                [
+                    424,
+                    119
+                ],
+                [
+                    246,
+                    119
+                ]
+            ],
+            "coordinates": [
+                246,
+                105,
+                424,
+                119
+            ]
+        },
+        {
+            "text": "Profile",
+            "confidence": 99.97,
+            "bbox": [
+                [
+                    42,
+                    159
+                ],
+                [
+                    85,
+                    159
+                ],
+                [
+                    85,
+                    173
+                ],
+                [
+                    42,
+                    173
+                ]
+            ],
+            "coordinates": [
+                42,
+                159,
+                85,
+                173
+            ]
+        },
+        {
+            "text": "NVH Engineer with 1 year of experience in the automotive industry,",
+            "confidence": 72.74,
+            "bbox": [
+                [
+                    246,
+                    159
+                ],
+                [
+                    570,
+                    159
+                ],
+                [
+                    570,
+                    178
+                ],
+                [
+                    246,
+                    178
+                ]
+            ],
+            "coordinates": [
+                246,
+                159,
+                570,
+                178
+            ]
+        },
+        {
+            "text": "demonstrating expertise in noise, vibration, and harshness analysis and",
+            "confidence": 55.99,
+            "bbox": [
+                [
+                    245,
+                    174
+                ],
+                [
+                    591,
+                    174
+                ],
+                [
+                    591,
+                    192
+                ],
+                [
+                    245,
+                    192
+                ]
+            ],
+            "coordinates": [
+                245,
+                174,
+                591,
+                192
+            ]
+        },
+        {
+            "text": "mitigation. Proficient in using advanced simulation tools and testing",
+            "confidence": 92.25,
+            "bbox": [
+                [
+                    246,
+                    189
+                ],
+                [
+                    577,
+                    189
+                ],
+                [
+                    577,
+                    208
+                ],
+                [
+                    246,
+                    208
+                ]
+            ],
+            "coordinates": [
+                246,
+                189,
+                577,
+                208
+            ]
+        },
+        {
+            "text": "techniques to optimize vehicle performance and comfort: Skilled in",
+            "confidence": 70.02,
+            "bbox": [
+                [
+                    245,
+                    204
+                ],
+                [
+                    570,
+                    204
+                ],
+                [
+                    570,
+                    222
+                ],
+                [
+                    245,
+                    222
+                ]
+            ],
+            "coordinates": [
+                245,
+                204,
+                570,
+                222
+            ]
+        },
+        {
+            "text": "collaborating with cross-functional teams to ensure design objectives are",
+            "confidence": 78.99,
+            "bbox": [
+                [
+                    245,
+                    219
+                ],
+                [
+                    599,
+                    219
+                ],
+                [
+                    599,
+                    238
+                ],
+                [
+                    245,
+                    238
+                ]
+            ],
+            "coordinates": [
+                245,
+                219,
+                599,
+                238
+            ]
+        },
+        {
+            "text": "met while adhering to industry standards and regulations. A motivated",
+            "confidence": 58.98,
+            "bbox": [
+                [
+                    246,
+                    234
+                ],
+                [
+                    587,
+                    234
+                ],
+                [
+                    587,
+                    253
+                ],
+                [
+                    246,
+                    253
+                ]
+            ],
+            "coordinates": [
+                246,
+                234,
+                587,
+                253
+            ]
+        },
+        {
+            "text": "problem solver, committed to continuous learning and improvement in",
+            "confidence": 84.98,
+            "bbox": [
+                [
+                    245,
+                    249
+                ],
+                [
+                    589,
+                    249
+                ],
+                [
+                    589,
+                    268
+                ],
+                [
+                    245,
+                    268
+                ]
+            ],
+            "coordinates": [
+                245,
+                249,
+                589,
+                268
+            ]
+        },
+        {
+            "text": "the field of NVH engineering:",
+            "confidence": 70.89,
+            "bbox": [
+                [
+                    246,
+                    266
+                ],
+                [
+                    386,
+                    266
+                ],
+                [
+                    386,
+                    282
+                ],
+                [
+                    246,
+                    282
+                ]
+            ],
+            "coordinates": [
+                246,
+                266,
+                386,
+                282
+            ]
+        },
+        {
+            "text": "Employment History",
+            "confidence": 91.72,
+            "bbox": [
+                [
+                    41,
+                    317
+                ],
+                [
+                    168,
+                    317
+                ],
+                [
+                    168,
+                    336
+                ],
+                [
+                    41,
+                    336
+                ]
+            ],
+            "coordinates": [
+                41,
+                317,
+                168,
+                336
+            ]
+        },
+        {
+            "text": "NVH Engineer at Caterpillar Inc,, AR",
+            "confidence": 59.74,
+            "bbox": [
+                [
+                    245,
+                    320
+                ],
+                [
+                    439,
+                    320
+                ],
+                [
+                    439,
+                    339
+                ],
+                [
+                    245,
+                    339
+                ]
+            ],
+            "coordinates": [
+                245,
+                320,
+                439,
+                339
+            ]
+        },
+        {
+            "text": "Ap{ 2023 Ptesent",
+            "confidence": 10.53,
+            "bbox": [
+                [
+                    246,
+                    338
+                ],
+                [
+                    328,
+                    338
+                ],
+                [
+                    328,
+                    351
+                ],
+                [
+                    246,
+                    351
+                ]
+            ],
+            "coordinates": [
+                246,
+                338,
+                328,
+                351
+            ]
+        },
+        {
+            "text": "Led a team that achicved J 20%0 reduction in noisc levels for hcavy",
+            "confidence": 57.73,
+            "bbox": [
+                [
+                    266,
+                    357
+                ],
+                [
+                    587,
+                    357
+                ],
+                [
+                    587,
+                    373
+                ],
+                [
+                    266,
+                    373
+                ]
+            ],
+            "coordinates": [
+                266,
+                357,
+                587,
+                373
+            ]
+        },
+        {
+            "text": "machinery; resulting in improved operator comfort and compliance",
+            "confidence": 75.26,
+            "bbox": [
+                [
+                    266,
+                    370
+                ],
+                [
+                    592,
+                    370
+                ],
+                [
+                    592,
+                    389
+                ],
+                [
+                    266,
+                    389
+                ]
+            ],
+            "coordinates": [
+                266,
+                370,
+                592,
+                389
+            ]
+        },
+        {
+            "text": "with government rcgulations:",
+            "confidence": 60.75,
+            "bbox": [
+                [
+                    265,
+                    385
+                ],
+                [
+                    412,
+                    385
+                ],
+                [
+                    412,
+                    404
+                ],
+                [
+                    265,
+                    404
+                ]
+            ],
+            "coordinates": [
+                265,
+                385,
+                412,
+                404
+            ]
+        },
+        {
+            "text": "Dcvclopcd and implemented an innovative vibration isolation system",
+            "confidence": 69.0,
+            "bbox": [
+                [
+                    266,
+                    402
+                ],
+                [
+                    599,
+                    402
+                ],
+                [
+                    599,
+                    418
+                ],
+                [
+                    266,
+                    418
+                ]
+            ],
+            "coordinates": [
+                266,
+                402,
+                599,
+                418
+            ]
+        },
+        {
+            "text": "that reduccd vibrations by 25%6 in kcy components, extending the",
+            "confidence": 54.81,
+            "bbox": [
+                [
+                    266,
+                    415
+                ],
+                [
+                    583,
+                    415
+                ],
+                [
+                    583,
+                    434
+                ],
+                [
+                    266,
+                    434
+                ]
+            ],
+            "coordinates": [
+                266,
+                415,
+                583,
+                434
+            ]
+        },
+        {
+            "text": "Iifespan of cquipment by 1596.",
+            "confidence": 50.74,
+            "bbox": [
+                [
+                    265,
+                    431
+                ],
+                [
+                    416,
+                    431
+                ],
+                [
+                    416,
+                    449
+                ],
+                [
+                    265,
+                    449
+                ]
+            ],
+            "coordinates": [
+                265,
+                431,
+                416,
+                449
+            ]
+        },
+        {
+            "text": "Successfully managed J $15 million budget for NVH-related projects,",
+            "confidence": 51.71,
+            "bbox": [
+                [
+                    266,
+                    446
+                ],
+                [
+                    600,
+                    446
+                ],
+                [
+                    600,
+                    465
+                ],
+                [
+                    266,
+                    465
+                ]
+            ],
+            "coordinates": [
+                266,
+                446,
+                600,
+                465
+            ]
+        },
+        {
+            "text": "ensuring timely completion and maximizing return on investment.",
+            "confidence": 53.71,
+            "bbox": [
+                [
+                    265,
+                    460
+                ],
+                [
+                    587,
+                    460
+                ],
+                [
+                    587,
+                    479
+                ],
+                [
+                    265,
+                    479
+                ]
+            ],
+            "coordinates": [
+                265,
+                460,
+                587,
+                479
+            ]
+        },
+        {
+            "text": "Collaborated with cross- functional teams to optimize product",
+            "confidence": 82.29,
+            "bbox": [
+                [
+                    266,
+                    475
+                ],
+                [
+                    565,
+                    475
+                ],
+                [
+                    565,
+                    494
+                ],
+                [
+                    266,
+                    494
+                ]
+            ],
+            "coordinates": [
+                266,
+                475,
+                565,
+                494
+            ]
+        },
+        {
+            "text": "designs,resulting in J 1096 improvement in overall machine",
+            "confidence": 66.06,
+            "bbox": [
+                [
+                    266,
+                    490
+                ],
+                [
+                    555,
+                    490
+                ],
+                [
+                    555,
+                    509
+                ],
+                [
+                    266,
+                    509
+                ]
+            ],
+            "coordinates": [
+                266,
+                490,
+                555,
+                509
+            ]
+        },
+        {
+            "text": "performance and J 590 reduction in warranty claims related to NVH",
+            "confidence": 71.82,
+            "bbox": [
+                [
+                    266,
+                    506
+                ],
+                [
+                    589,
+                    506
+                ],
+                [
+                    589,
+                    523
+                ],
+                [
+                    266,
+                    523
+                ]
+            ],
+            "coordinates": [
+                266,
+                506,
+                589,
+                523
+            ]
+        },
+        {
+            "text": "issues:",
+            "confidence": 90.64,
+            "bbox": [
+                [
+                    266,
+                    522
+                ],
+                [
+                    303,
+                    522
+                ],
+                [
+                    303,
+                    536
+                ],
+                [
+                    266,
+                    536
+                ]
+            ],
+            "coordinates": [
+                266,
+                522,
+                303,
+                536
+            ]
+        },
+        {
+            "text": "Associate NVH Engineer at Hytrol Conveyor Company,AR",
+            "confidence": 91.36,
+            "bbox": [
+                [
+                    246,
+                    547
+                ],
+                [
+                    554,
+                    547
+                ],
+                [
+                    554,
+                    566
+                ],
+                [
+                    246,
+                    566
+                ]
+            ],
+            "coordinates": [
+                246,
+                547,
+                554,
+                566
+            ]
+        },
+        {
+            "text": "Jul2022 Mar 2023",
+            "confidence": 42.56,
+            "bbox": [
+                [
+                    246,
+                    564
+                ],
+                [
+                    332,
+                    564
+                ],
+                [
+                    332,
+                    578
+                ],
+                [
+                    246,
+                    578
+                ]
+            ],
+            "coordinates": [
+                246,
+                564,
+                332,
+                578
+            ]
+        },
+        {
+            "text": "Significantly reduced noiselevelsofconveyor systems by 30%through",
+            "confidence": 75.88,
+            "bbox": [
+                [
+                    266,
+                    582
+                ],
+                [
+                    600,
+                    582
+                ],
+                [
+                    600,
+                    600
+                ],
+                [
+                    266,
+                    600
+                ]
+            ],
+            "coordinates": [
+                266,
+                582,
+                600,
+                600
+            ]
+        },
+        {
+            "text": "implementing advanced noise reduction techniques and materials,",
+            "confidence": 80.68,
+            "bbox": [
+                [
+                    266,
+                    599
+                ],
+                [
+                    590,
+                    599
+                ],
+                [
+                    590,
+                    615
+                ],
+                [
+                    266,
+                    615
+                ]
+            ],
+            "coordinates": [
+                266,
+                599,
+                590,
+                615
+            ]
+        },
+        {
+            "text": "resulting in improved workplace safety and customer satisfaction.",
+            "confidence": 46.51,
+            "bbox": [
+                [
+                    265,
+                    612
+                ],
+                [
+                    585,
+                    612
+                ],
+                [
+                    585,
+                    631
+                ],
+                [
+                    265,
+                    631
+                ]
+            ],
+            "coordinates": [
+                265,
+                612,
+                585,
+                631
+            ]
+        },
+        {
+            "text": "Developed and validated 3 new simulation model for predicting",
+            "confidence": 77.39,
+            "bbox": [
+                [
+                    266,
+                    629
+                ],
+                [
+                    574,
+                    629
+                ],
+                [
+                    574,
+                    644
+                ],
+                [
+                    266,
+                    644
+                ]
+            ],
+            "coordinates": [
+                266,
+                629,
+                574,
+                644
+            ]
+        },
+        {
+            "text": "vibrations in conveyor Systems, which increased the accuracy of",
+            "confidence": 73.42,
+            "bbox": [
+                [
+                    266,
+                    644
+                ],
+                [
+                    575,
+                    644
+                ],
+                [
+                    575,
+                    660
+                ],
+                [
+                    266,
+                    660
+                ]
+            ],
+            "coordinates": [
+                266,
+                644,
+                575,
+                660
+            ]
+        },
+        {
+            "text": "predictions by 2590 and streamlined the design process:",
+            "confidence": 86.5,
+            "bbox": [
+                [
+                    266,
+                    659
+                ],
+                [
+                    536,
+                    659
+                ],
+                [
+                    536,
+                    675
+                ],
+                [
+                    266,
+                    675
+                ]
+            ],
+            "coordinates": [
+                266,
+                659,
+                536,
+                675
+            ]
+        },
+        {
+            "text": "Successfully led a cross-functional team in the development and",
+            "confidence": 83.67,
+            "bbox": [
+                [
+                    266,
+                    674
+                ],
+                [
+                    577,
+                    674
+                ],
+                [
+                    577,
+                    690
+                ],
+                [
+                    266,
+                    690
+                ]
+            ],
+            "coordinates": [
+                266,
+                674,
+                577,
+                690
+            ]
+        },
+        {
+            "text": "Iaunch ofa new conveyor System that increased throughput by 2090,",
+            "confidence": 51.47,
+            "bbox": [
+                [
+                    266,
+                    688
+                ],
+                [
+                    598,
+                    688
+                ],
+                [
+                    598,
+                    706
+                ],
+                [
+                    266,
+                    706
+                ]
+            ],
+            "coordinates": [
+                266,
+                688,
+                598,
+                706
+            ]
+        },
+        {
+            "text": "reducing operational costs for clients and boosting sales for the",
+            "confidence": 73.09,
+            "bbox": [
+                [
+                    265,
+                    702
+                ],
+                [
+                    572,
+                    702
+                ],
+                [
+                    572,
+                    721
+                ],
+                [
+                    265,
+                    721
+                ]
+            ],
+            "coordinates": [
+                265,
+                702,
+                572,
+                721
+            ]
+        },
+        {
+            "text": "company:",
+            "confidence": 97.95,
+            "bbox": [
+                [
+                    266,
+                    721
+                ],
+                [
+                    317,
+                    721
+                ],
+                [
+                    317,
+                    735
+                ],
+                [
+                    266,
+                    735
+                ]
+            ],
+            "coordinates": [
+                266,
+                721,
+                317,
+                735
+            ]
+        },
+        {
+            "text": "Implemented an enhanced testing process for conveyor components,",
+            "confidence": 69.94,
+            "bbox": [
+                [
+                    266,
+                    733
+                ],
+                [
+                    600,
+                    733
+                ],
+                [
+                    600,
+                    751
+                ],
+                [
+                    266,
+                    751
+                ]
+            ],
+            "coordinates": [
+                266,
+                733,
+                600,
+                751
+            ]
+        },
+        {
+            "text": "leading to a 1596 reduction in warranty claims due to NVH-related",
+            "confidence": 50.81,
+            "bbox": [
+                [
+                    266,
+                    749
+                ],
+                [
+                    582,
+                    749
+                ],
+                [
+                    582,
+                    765
+                ],
+                [
+                    266,
+                    765
+                ]
+            ],
+            "coordinates": [
+                266,
+                749,
+                582,
+                765
+            ]
+        },
+        {
+            "text": "issues and contributing to a overall increase in product quality and",
+            "confidence": 69.15,
+            "bbox": [
+                [
+                    265,
+                    762
+                ],
+                [
+                    594,
+                    762
+                ],
+                [
+                    594,
+                    781
+                ],
+                [
+                    265,
+                    781
+                ]
+            ],
+            "coordinates": [
+                265,
+                762,
+                594,
+                781
+            ]
+        },
+        {
+            "text": "reliability:",
+            "confidence": 92.15,
+            "bbox": [
+                [
+                    265,
+                    778
+                ],
+                [
+                    319,
+                    778
+                ],
+                [
+                    319,
+                    796
+                ],
+                [
+                    265,
+                    796
+                ]
+            ],
+            "coordinates": [
+                265,
+                778,
+                319,
+                796
+            ]
+        },
+        {
+            "text": "Education",
+            "confidence": 100.0,
+            "bbox": [
+                [
+                    42,
+                    832
+                ],
+                [
+                    105,
+                    832
+                ],
+                [
+                    105,
+                    847
+                ],
+                [
+                    42,
+                    847
+                ]
+            ],
+            "coordinates": [
+                42,
+                832,
+                105,
+                847
+            ]
+        },
+        {
+            "text": "Bachelor of Science in Mechanical Engineering with a focus on",
+            "confidence": 82.09,
+            "bbox": [
+                [
+                    246,
+                    834
+                ],
+                [
+                    581,
+                    834
+                ],
+                [
+                    581,
+                    852
+                ],
+                [
+                    246,
+                    852
+                ]
+            ],
+            "coordinates": [
+                246,
+                834,
+                581,
+                852
+            ]
+        },
+        {
+            "text": "Noise; Vibration, and Harshness (NVH) at University of Arkansas,",
+            "confidence": 58.45,
+            "bbox": [
+                [
+                    245,
+                    850
+                ],
+                [
+                    593,
+                    850
+                ],
+                [
+                    593,
+                    868
+                ],
+                [
+                    245,
+                    868
+                ]
+            ],
+            "coordinates": [
+                245,
+                850,
+                593,
+                868
+            ]
+        },
+        {
+            "text": "Fayetteville, AR",
+            "confidence": 71.07,
+            "bbox": [
+                [
+                    246,
+                    868
+                ],
+                [
+                    333,
+                    868
+                ],
+                [
+                    333,
+                    884
+                ],
+                [
+                    246,
+                    884
+                ]
+            ],
+            "coordinates": [
+                246,
+                868,
+                333,
+                884
+            ]
+        },
+        {
+            "text": "Aug 2018 - May 2022",
+            "confidence": 61.14,
+            "bbox": [
+                [
+                    245,
+                    881
+                ],
+                [
+                    337,
+                    881
+                ],
+                [
+                    337,
+                    895
+                ],
+                [
+                    245,
+                    895
+                ]
+            ],
+            "coordinates": [
+                245,
+                881,
+                337,
+                895
+            ]
+        }
+    ]
+}
