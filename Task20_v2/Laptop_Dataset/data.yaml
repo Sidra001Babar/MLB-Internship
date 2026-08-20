@@ -1,0 +1,8 @@
+path: D:\MLB-Internship\Task20_v2\Laptop_Dataset
+
+train: images/train
+val: images/val
+test: images/test
+
+names:
+  0: Laptop
