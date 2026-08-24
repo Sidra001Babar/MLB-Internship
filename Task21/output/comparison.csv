@@ -1,5 +1,5 @@
-image,raw_detections,enhanced_detections,raw_average_confidence,enhanced_average_confidence,confidence_improvement,deskew_angle,perspective_corrected
-1.png,31,30,38.62,74.06,35.44,0.0,True
-2.jpg,86,83,84.73,82.97,-1.76,0.0,True
-3.png,52,52,78.42,71.56,-6.85,0.0,True
-4.jpg,127,23,28.42,18.06,-10.35,0.0,True
+image,raw_detections,enhanced_detections,raw_average_confidence,enhanced_average_confidence,confidence_improvement,detection_ratio,selected_result,preprocessing_applied,selection_reason,deskew_angle,perspective_corrected,ground_truth_available,raw_char_accuracy,raw_word_accuracy,enhanced_char_accuracy,enhanced_word_accuracy,final_char_accuracy,final_word_accuracy,ground_truth_best_choice,selection_matches_ground_truth
+1.png,31,30,38.62,74.06,35.44,0.97,enhanced,True,Enhanced image improved OCR confidence without excessive detection loss.,0.0,True,True,51.73,19.64,72.83,60.71,72.83,60.71,enhanced,True
+2.jpg,86,83,84.73,82.97,-1.76,0.97,raw,False,Enhanced image did not improve OCR confidence.,0.0,True,True,68.02,66.19,68.38,63.7,68.02,66.19,enhanced,False
+3.png,52,52,78.42,71.56,-6.85,1.0,raw,False,Enhanced image did not improve OCR confidence.,0.0,True,True,97.01,92.33,95.98,84.96,97.01,92.33,raw,True
+4.jpg,127,23,28.42,18.06,-10.35,0.18,raw,False,Enhanced preprocessing removed too many OCR detections.,0.0,True,True,28.55,3.66,49.66,16.75,28.55,3.66,enhanced,False

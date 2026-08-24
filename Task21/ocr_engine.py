@@ -116,6 +116,7 @@ def run_ocr(
 
 
 # DRAW OCR RESULTS
+# DRAW OCR RESULTS
 def draw_ocr_results(
     image,
     detections
@@ -138,8 +139,10 @@ def draw_ocr_results(
             detection["bbox"],
             dtype=np.int32
         )
-        text = detection["text"]
+
         confidence = detection["confidence"]
+
+        # Draw OCR bounding box
         cv2.polylines(
             output,
             [points],
@@ -147,39 +150,48 @@ def draw_ocr_results(
             (0, 255, 0),
             2
         )
+
+        # Get bounding box coordinates
         x1, y1, x2, y2 = detection[
             "coordinates"
         ]
-        text_y = max(
-            20,
-            y1 - 8
+
+        # Confidence score only
+        confidence_label = (
+            f"{confidence:.1f}%"
         )
-        cv2.putText(
-            output,
-            text,
-            (x1, text_y),
-            cv2.FONT_HERSHEY_SIMPLEX,
-            0.5,
-            (0, 255, 0),
-            1,
-            cv2.LINE_AA
-        )
-        (text_w, _), _ = cv2.getTextSize(
-            text,
+
+        # Get text size
+        (text_w, text_h), baseline = cv2.getTextSize(
+            confidence_label,
             cv2.FONT_HERSHEY_SIMPLEX,
             0.5,
             1
         )
 
-        confidence_label = f"({confidence:.1f}%)"
+        # Position confidence score
+        # LEFT side of the bounding box
+        confidence_x = x1 - text_w - 8
+
+        # Vertically center it with the bounding box
+        confidence_y = (
+            y1 + y2
+        ) // 2
+
+        # Prevent text from going outside left image boundary
+        if confidence_x < 5:
+            confidence_x = 5
 
         cv2.putText(
             output,
             confidence_label,
-            (x1 + text_w + 6, text_y),
+            (
+                confidence_x,
+                confidence_y
+            ),
             cv2.FONT_HERSHEY_SIMPLEX,
             0.5,
-            (255, 0, 0),   # BGR -> blue
+            (255, 0, 0),
             1,
             cv2.LINE_AA
         )

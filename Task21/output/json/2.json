@@ -4737,5 +4737,2451 @@
                 1920
             ]
         }
-    ]
+    ],
+    "final_ocr": [
+        {
+            "text": "support@qwikresume.com",
+            "confidence": 64.49,
+            "bbox": [
+                [
+                    1086,
+                    57
+                ],
+                [
+                    1317,
+                    57
+                ],
+                [
+                    1317,
+                    83
+                ],
+                [
+                    1086,
+                    83
+                ]
+            ],
+            "coordinates": [
+                1086,
+                57,
+                1317,
+                83
+            ]
+        },
+        {
+            "text": "(123) 456 7899",
+            "confidence": 94.94,
+            "bbox": [
+                [
+                    1086,
+                    97
+                ],
+                [
+                    1214,
+                    97
+                ],
+                [
+                    1214,
+                    124
+                ],
+                [
+                    1086,
+                    124
+                ]
+            ],
+            "coordinates": [
+                1086,
+                97,
+                1214,
+                124
+            ]
+        },
+        {
+            "text": "SOPHIA BROWN",
+            "confidence": 72.4,
+            "bbox": [
+                [
+                    306,
+                    104
+                ],
+                [
+                    761,
+                    104
+                ],
+                [
+                    761,
+                    161
+                ],
+                [
+                    306,
+                    161
+                ]
+            ],
+            "coordinates": [
+                306,
+                104,
+                761,
+                161
+            ]
+        },
+        {
+            "text": "Los Angeles",
+            "confidence": 99.98,
+            "bbox": [
+                [
+                    1086,
+                    142
+                ],
+                [
+                    1191,
+                    142
+                ],
+                [
+                    1191,
+                    166
+                ],
+                [
+                    1086,
+                    166
+                ]
+            ],
+            "coordinates": [
+                1086,
+                142,
+                1191,
+                166
+            ]
+        },
+        {
+            "text": "Tower Technician",
+            "confidence": 88.23,
+            "bbox": [
+                [
+                    311,
+                    162
+                ],
+                [
+                    557,
+                    162
+                ],
+                [
+                    557,
+                    195
+                ],
+                [
+                    311,
+                    195
+                ]
+            ],
+            "coordinates": [
+                311,
+                162,
+                557,
+                195
+            ]
+        },
+        {
+            "text": "WWW.qwikresume.com",
+            "confidence": 77.72,
+            "bbox": [
+                [
+                    1086,
+                    183
+                ],
+                [
+                    1279,
+                    183
+                ],
+                [
+                    1279,
+                    207
+                ],
+                [
+                    1086,
+                    207
+                ]
+            ],
+            "coordinates": [
+                1086,
+                183,
+                1279,
+                207
+            ]
+        },
+        {
+            "text": "PROFESSIONAL SUMMARY",
+            "confidence": 87.37,
+            "bbox": [
+                [
+                    106,
+                    325
+                ],
+                [
+                    490,
+                    325
+                ],
+                [
+                    490,
+                    358
+                ],
+                [
+                    106,
+                    358
+                ]
+            ],
+            "coordinates": [
+                106,
+                325,
+                490,
+                358
+            ]
+        },
+        {
+            "text": "SKILLS",
+            "confidence": 99.97,
+            "bbox": [
+                [
+                    896,
+                    325
+                ],
+                [
+                    1000,
+                    325
+                ],
+                [
+                    1000,
+                    358
+                ],
+                [
+                    896,
+                    358
+                ]
+            ],
+            "coordinates": [
+                896,
+                325,
+                1000,
+                358
+            ]
+        },
+        {
+            "text": "Skilled Tower Technician with 2 years of experience in installation and",
+            "confidence": 88.55,
+            "bbox": [
+                [
+                    56,
+                    367
+                ],
+                [
+                    788,
+                    367
+                ],
+                [
+                    788,
+                    404
+                ],
+                [
+                    56,
+                    404
+                ]
+            ],
+            "coordinates": [
+                56,
+                367,
+                788,
+                404
+            ]
+        },
+        {
+            "text": "Data Analysis",
+            "confidence": 100.0,
+            "bbox": [
+                [
+                    847,
+                    372
+                ],
+                [
+                    997,
+                    372
+                ],
+                [
+                    997,
+                    402
+                ],
+                [
+                    847,
+                    402
+                ]
+            ],
+            "coordinates": [
+                847,
+                372,
+                997,
+                402
+            ]
+        },
+        {
+            "text": "maintenance of communication towers: Proficient in safety protocols",
+            "confidence": 81.66,
+            "bbox": [
+                [
+                    57,
+                    395
+                ],
+                [
+                    788,
+                    395
+                ],
+                [
+                    788,
+                    431
+                ],
+                [
+                    57,
+                    431
+                ]
+            ],
+            "coordinates": [
+                57,
+                395,
+                788,
+                431
+            ]
+        },
+        {
+            "text": "and equipment handling, ensuring optimal performance and",
+            "confidence": 83.8,
+            "bbox": [
+                [
+                    56,
+                    420
+                ],
+                [
+                    705,
+                    420
+                ],
+                [
+                    705,
+                    457
+                ],
+                [
+                    56,
+                    457
+                ]
+            ],
+            "coordinates": [
+                56,
+                420,
+                705,
+                457
+            ]
+        },
+        {
+            "text": "compliance with industry standards",
+            "confidence": 78.78,
+            "bbox": [
+                [
+                    55,
+                    448
+                ],
+                [
+                    447,
+                    448
+                ],
+                [
+                    447,
+                    486
+                ],
+                [
+                    55,
+                    486
+                ]
+            ],
+            "coordinates": [
+                55,
+                448,
+                447,
+                486
+            ]
+        },
+        {
+            "text": "Safety Compliance",
+            "confidence": 99.3,
+            "bbox": [
+                [
+                    845,
+                    454
+                ],
+                [
+                    1055,
+                    454
+                ],
+                [
+                    1055,
+                    490
+                ],
+                [
+                    845,
+                    490
+                ]
+            ],
+            "coordinates": [
+                845,
+                454,
+                1055,
+                490
+            ]
+        },
+        {
+            "text": "Equipment Maintenance",
+            "confidence": 98.68,
+            "bbox": [
+                [
+                    846,
+                    541
+                ],
+                [
+                    1112,
+                    541
+                ],
+                [
+                    1112,
+                    574
+                ],
+                [
+                    846,
+                    574
+                ]
+            ],
+            "coordinates": [
+                846,
+                541,
+                1112,
+                574
+            ]
+        },
+        {
+            "text": "WORK EXPERIENCE",
+            "confidence": 99.95,
+            "bbox": [
+                [
+                    107,
+                    564
+                ],
+                [
+                    394,
+                    564
+                ],
+                [
+                    394,
+                    596
+                ],
+                [
+                    107,
+                    596
+                ]
+            ],
+            "coordinates": [
+                107,
+                564,
+                394,
+                596
+            ]
+        },
+        {
+            "text": "Executive Tower Technician",
+            "confidence": 99.74,
+            "bbox": [
+                [
+                    57,
+                    610
+                ],
+                [
+                    393,
+                    610
+                ],
+                [
+                    393,
+                    639
+                ],
+                [
+                    57,
+                    639
+                ]
+            ],
+            "coordinates": [
+                57,
+                610,
+                393,
+                639
+            ]
+        },
+        {
+            "text": "Jan / 2024-Ongoing",
+            "confidence": 87.07,
+            "bbox": [
+                [
+                    619,
+                    618
+                ],
+                [
+                    793,
+                    618
+                ],
+                [
+                    793,
+                    642
+                ],
+                [
+                    619,
+                    642
+                ]
+            ],
+            "coordinates": [
+                619,
+                618,
+                793,
+                642
+            ]
+        },
+        {
+            "text": "Antenna Installation",
+            "confidence": 99.11,
+            "bbox": [
+                [
+                    848,
+                    627
+                ],
+                [
+                    1065,
+                    627
+                ],
+                [
+                    1065,
+                    653
+                ],
+                [
+                    848,
+                    653
+                ]
+            ],
+            "coordinates": [
+                848,
+                627,
+                1065,
+                653
+            ]
+        },
+        {
+            "text": "=",
+            "confidence": 53.35,
+            "bbox": [
+                [
+                    1170,
+                    441
+                ],
+                [
+                    1364,
+                    441
+                ],
+                [
+                    1364,
+                    780
+                ],
+                [
+                    1170,
+                    780
+                ]
+            ],
+            "coordinates": [
+                1170,
+                441,
+                1364,
+                780
+            ]
+        },
+        {
+            "text": "Blue Sky Innovations",
+            "confidence": 76.46,
+            "bbox": [
+                [
+                    56,
+                    647
+                ],
+                [
+                    274,
+                    647
+                ],
+                [
+                    274,
+                    680
+                ],
+                [
+                    56,
+                    680
+                ]
+            ],
+            "coordinates": [
+                56,
+                647,
+                274,
+                680
+            ]
+        },
+        {
+            "text": "1 Chicago, IL",
+            "confidence": 62.51,
+            "bbox": [
+                [
+                    678,
+                    649
+                ],
+                [
+                    793,
+                    649
+                ],
+                [
+                    793,
+                    677
+                ],
+                [
+                    678,
+                    677
+                ]
+            ],
+            "coordinates": [
+                678,
+                649,
+                793,
+                677
+            ]
+        },
+        {
+            "text": "1. Utilized",
+            "confidence": 88.93,
+            "bbox": [
+                [
+                    57,
+                    691
+                ],
+                [
+                    155,
+                    691
+                ],
+                [
+                    155,
+                    717
+                ],
+                [
+                    57,
+                    717
+                ]
+            ],
+            "coordinates": [
+                57,
+                691,
+                155,
+                717
+            ]
+        },
+        {
+            "text": "safety equipment; including full-body harnesses, to climb",
+            "confidence": 81.13,
+            "bbox": [
+                [
+                    150,
+                    685
+                ],
+                [
+                    764,
+                    685
+                ],
+                [
+                    764,
+                    723
+                ],
+                [
+                    150,
+                    723
+                ]
+            ],
+            "coordinates": [
+                150,
+                685,
+                764,
+                723
+            ]
+        },
+        {
+            "text": "towers and access components:",
+            "confidence": 90.02,
+            "bbox": [
+                [
+                    73,
+                    717
+                ],
+                [
+                    425,
+                    717
+                ],
+                [
+                    425,
+                    749
+                ],
+                [
+                    73,
+                    749
+                ]
+            ],
+            "coordinates": [
+                73,
+                717,
+                425,
+                749
+            ]
+        },
+        {
+            "text": "Climbing Techniques",
+            "confidence": 98.4,
+            "bbox": [
+                [
+                    844,
+                    706
+                ],
+                [
+                    1077,
+                    706
+                ],
+                [
+                    1077,
+                    747
+                ],
+                [
+                    844,
+                    747
+                ]
+            ],
+            "coordinates": [
+                844,
+                706,
+                1077,
+                747
+            ]
+        },
+        {
+            "text": "2. Executed assembly and erection of communication towers using",
+            "confidence": 76.68,
+            "bbox": [
+                [
+                    51,
+                    740
+                ],
+                [
+                    764,
+                    740
+                ],
+                [
+                    764,
+                    777
+                ],
+                [
+                    51,
+                    777
+                ]
+            ],
+            "coordinates": [
+                51,
+                740,
+                764,
+                777
+            ]
+        },
+        {
+            "text": "advanced rigging techniques:",
+            "confidence": 91.88,
+            "bbox": [
+                [
+                    73,
+                    767
+                ],
+                [
+                    398,
+                    767
+                ],
+                [
+                    398,
+                    804
+                ],
+                [
+                    73,
+                    804
+                ]
+            ],
+            "coordinates": [
+                73,
+                767,
+                398,
+                804
+            ]
+        },
+        {
+            "text": "3. Bolted equipment securely in place with hand and power tools,",
+            "confidence": 77.5,
+            "bbox": [
+                [
+                    51,
+                    796
+                ],
+                [
+                    742,
+                    796
+                ],
+                [
+                    742,
+                    829
+                ],
+                [
+                    51,
+                    829
+                ]
+            ],
+            "coordinates": [
+                51,
+                796,
+                742,
+                829
+            ]
+        },
+        {
+            "text": "ensuring structural integrity:",
+            "confidence": 75.91,
+            "bbox": [
+                [
+                    72,
+                    821
+                ],
+                [
+                    377,
+                    821
+                ],
+                [
+                    377,
+                    858
+                ],
+                [
+                    72,
+                    858
+                ]
+            ],
+            "coordinates": [
+                72,
+                821,
+                377,
+                858
+            ]
+        },
+        {
+            "text": "4. Checked antenna positioning for specified azimuths and",
+            "confidence": 77.84,
+            "bbox": [
+                [
+                    49,
+                    849
+                ],
+                [
+                    676,
+                    849
+                ],
+                [
+                    676,
+                    886
+                ],
+                [
+                    49,
+                    886
+                ]
+            ],
+            "coordinates": [
+                49,
+                849,
+                676,
+                886
+            ]
+        },
+        {
+            "text": "mechanical tilts, making adjustments as needed:",
+            "confidence": 84.23,
+            "bbox": [
+                [
+                    74,
+                    874
+                ],
+                [
+                    595,
+                    874
+                ],
+                [
+                    595,
+                    913
+                ],
+                [
+                    74,
+                    913
+                ]
+            ],
+            "coordinates": [
+                74,
+                874,
+                595,
+                913
+            ]
+        },
+        {
+            "text": "INTERESTS",
+            "confidence": 99.97,
+            "bbox": [
+                [
+                    896,
+                    872
+                ],
+                [
+                    1058,
+                    872
+                ],
+                [
+                    1058,
+                    905
+                ],
+                [
+                    896,
+                    905
+                ]
+            ],
+            "coordinates": [
+                896,
+                872,
+                1058,
+                905
+            ]
+        },
+        {
+            "text": "5. Installed, replaced, and repaired antennas and auxiliary equipment",
+            "confidence": 85.26,
+            "bbox": [
+                [
+                    51,
+                    902
+                ],
+                [
+                    789,
+                    902
+                ],
+                [
+                    789,
+                    940
+                ],
+                [
+                    51,
+                    940
+                ]
+            ],
+            "coordinates": [
+                51,
+                902,
+                789,
+                940
+            ]
+        },
+        {
+            "text": "Podcasts",
+            "confidence": 99.99,
+            "bbox": [
+                [
+                    874,
+                    919
+                ],
+                [
+                    978,
+                    919
+                ],
+                [
+                    978,
+                    945
+                ],
+                [
+                    874,
+                    945
+                ]
+            ],
+            "coordinates": [
+                874,
+                919,
+                978,
+                945
+            ]
+        },
+        {
+            "text": "Language Learning",
+            "confidence": 100.0,
+            "bbox": [
+                [
+                    1126,
+                    914
+                ],
+                [
+                    1339,
+                    914
+                ],
+                [
+                    1339,
+                    953
+                ],
+                [
+                    1126,
+                    953
+                ]
+            ],
+            "coordinates": [
+                1126,
+                914,
+                1339,
+                953
+            ]
+        },
+        {
+            "text": "on communication towers:",
+            "confidence": 71.35,
+            "bbox": [
+                [
+                    74,
+                    933
+                ],
+                [
+                    361,
+                    933
+                ],
+                [
+                    361,
+                    959
+                ],
+                [
+                    74,
+                    959
+                ]
+            ],
+            "coordinates": [
+                74,
+                933,
+                361,
+                959
+            ]
+        },
+        {
+            "text": "6. Completed detailed reports on project status and progress using",
+            "confidence": 89.5,
+            "bbox": [
+                [
+                    51,
+                    958
+                ],
+                [
+                    766,
+                    958
+                ],
+                [
+                    766,
+                    992
+                ],
+                [
+                    51,
+                    992
+                ]
+            ],
+            "coordinates": [
+                51,
+                958,
+                766,
+                992
+            ]
+        },
+        {
+            "text": "Dancing",
+            "confidence": 100.0,
+            "bbox": [
+                [
+                    877,
+                    959
+                ],
+                [
+                    977,
+                    959
+                ],
+                [
+                    977,
+                    997
+                ],
+                [
+                    877,
+                    997
+                ]
+            ],
+            "coordinates": [
+                877,
+                959,
+                977,
+                997
+            ]
+        },
+        {
+            "text": "Cycling",
+            "confidence": 96.1,
+            "bbox": [
+                [
+                    1137,
+                    964
+                ],
+                [
+                    1226,
+                    964
+                ],
+                [
+                    1226,
+                    995
+                ],
+                [
+                    1137,
+                    995
+                ]
+            ],
+            "coordinates": [
+                1137,
+                964,
+                1226,
+                995
+            ]
+        },
+        {
+            "text": "specialized software.",
+            "confidence": 88.05,
+            "bbox": [
+                [
+                    72,
+                    983
+                ],
+                [
+                    301,
+                    983
+                ],
+                [
+                    301,
+                    1020
+                ],
+                [
+                    72,
+                    1020
+                ]
+            ],
+            "coordinates": [
+                72,
+                983,
+                301,
+                1020
+            ]
+        },
+        {
+            "text": "7. Conducted thorough inspections of completed work to verify",
+            "confidence": 78.65,
+            "bbox": [
+                [
+                    51,
+                    1014
+                ],
+                [
+                    719,
+                    1014
+                ],
+                [
+                    719,
+                    1045
+                ],
+                [
+                    51,
+                    1045
+                ]
+            ],
+            "coordinates": [
+                51,
+                1014,
+                719,
+                1045
+            ]
+        },
+        {
+            "text": "hardware tightness and weatherproofing:",
+            "confidence": 82.96,
+            "bbox": [
+                [
+                    74,
+                    1037
+                ],
+                [
+                    514,
+                    1037
+                ],
+                [
+                    514,
+                    1073
+                ],
+                [
+                    74,
+                    1073
+                ]
+            ],
+            "coordinates": [
+                74,
+                1037,
+                514,
+                1073
+            ]
+        },
+        {
+            "text": "Tower technician",
+            "confidence": 98.45,
+            "bbox": [
+                [
+                    55,
+                    1099
+                ],
+                [
+                    271,
+                    1099
+                ],
+                [
+                    271,
+                    1131
+                ],
+                [
+                    55,
+                    1131
+                ]
+            ],
+            "coordinates": [
+                55,
+                1099,
+                271,
+                1131
+            ]
+        },
+        {
+            "text": "Jan / 2023-Jan / 2024",
+            "confidence": 75.04,
+            "bbox": [
+                [
+                    606,
+                    1108
+                ],
+                [
+                    792,
+                    1108
+                ],
+                [
+                    792,
+                    1128
+                ],
+                [
+                    606,
+                    1128
+                ]
+            ],
+            "coordinates": [
+                606,
+                1108,
+                792,
+                1128
+            ]
+        },
+        {
+            "text": "STRENGTHS",
+            "confidence": 94.28,
+            "bbox": [
+                [
+                    896,
+                    1084
+                ],
+                [
+                    1075,
+                    1084
+                ],
+                [
+                    1075,
+                    1117
+                ],
+                [
+                    896,
+                    1117
+                ]
+            ],
+            "coordinates": [
+                896,
+                1084,
+                1075,
+                1117
+            ]
+        },
+        {
+            "text": "Silver Lake Enterprises",
+            "confidence": 98.63,
+            "bbox": [
+                [
+                    56,
+                    1138
+                ],
+                [
+                    293,
+                    1138
+                ],
+                [
+                    293,
+                    1169
+                ],
+                [
+                    56,
+                    1169
+                ]
+            ],
+            "coordinates": [
+                56,
+                1138,
+                293,
+                1169
+            ]
+        },
+        {
+            "text": "4 Seattie, WA",
+            "confidence": 79.06,
+            "bbox": [
+                [
+                    676,
+                    1140
+                ],
+                [
+                    792,
+                    1140
+                ],
+                [
+                    792,
+                    1163
+                ],
+                [
+                    676,
+                    1163
+                ]
+            ],
+            "coordinates": [
+                676,
+                1140,
+                792,
+                1163
+            ]
+        },
+        {
+            "text": "Inituitioni",
+            "confidence": 30.92,
+            "bbox": [
+                [
+                    891,
+                    1148
+                ],
+                [
+                    987,
+                    1148
+                ],
+                [
+                    987,
+                    1174
+                ],
+                [
+                    891,
+                    1174
+                ]
+            ],
+            "coordinates": [
+                891,
+                1148,
+                987,
+                1174
+            ]
+        },
+        {
+            "text": "Leadershlp;",
+            "confidence": 47.32,
+            "bbox": [
+                [
+                    1053,
+                    1147
+                ],
+                [
+                    1179,
+                    1147
+                ],
+                [
+                    1179,
+                    1180
+                ],
+                [
+                    1053,
+                    1180
+                ]
+            ],
+            "coordinates": [
+                1053,
+                1147,
+                1179,
+                1180
+            ]
+        },
+        {
+            "text": "1. Climbed communication towers to perform routine maintenance",
+            "confidence": 98.15,
+            "bbox": [
+                [
+                    56,
+                    1176
+                ],
+                [
+                    764,
+                    1176
+                ],
+                [
+                    764,
+                    1213
+                ],
+                [
+                    56,
+                    1213
+                ]
+            ],
+            "coordinates": [
+                56,
+                1176,
+                764,
+                1213
+            ]
+        },
+        {
+            "text": "and repairs on antennas:",
+            "confidence": 72.96,
+            "bbox": [
+                [
+                    73,
+                    1207
+                ],
+                [
+                    344,
+                    1207
+                ],
+                [
+                    344,
+                    1238
+                ],
+                [
+                    73,
+                    1238
+                ]
+            ],
+            "coordinates": [
+                73,
+                1207,
+                344,
+                1238
+            ]
+        },
+        {
+            "text": "Listening;",
+            "confidence": 82.52,
+            "bbox": [
+                [
+                    889,
+                    1208
+                ],
+                [
+                    995,
+                    1208
+                ],
+                [
+                    995,
+                    1246
+                ],
+                [
+                    889,
+                    1246
+                ]
+            ],
+            "coordinates": [
+                889,
+                1208,
+                995,
+                1246
+            ]
+        },
+        {
+            "text": "Mentorship",
+            "confidence": 68.57,
+            "bbox": [
+                [
+                    1062,
+                    1213
+                ],
+                [
+                    1190,
+                    1213
+                ],
+                [
+                    1190,
+                    1244
+                ],
+                [
+                    1062,
+                    1244
+                ]
+            ],
+            "coordinates": [
+                1062,
+                1213,
+                1190,
+                1244
+            ]
+        },
+        {
+            "text": "2. Ensured compliance with safety regulations while working at",
+            "confidence": 84.83,
+            "bbox": [
+                [
+                    51,
+                    1230
+                ],
+                [
+                    715,
+                    1230
+                ],
+                [
+                    715,
+                    1268
+                ],
+                [
+                    51,
+                    1268
+                ]
+            ],
+            "coordinates": [
+                51,
+                1230,
+                715,
+                1268
+            ]
+        },
+        {
+            "text": "heights:",
+            "confidence": 73.67,
+            "bbox": [
+                [
+                    75,
+                    1261
+                ],
+                [
+                    165,
+                    1261
+                ],
+                [
+                    165,
+                    1292
+                ],
+                [
+                    75,
+                    1292
+                ]
+            ],
+            "coordinates": [
+                75,
+                1261,
+                165,
+                1292
+            ]
+        },
+        {
+            "text": "3. Collaborated with team members to execute tower construction",
+            "confidence": 88.78,
+            "bbox": [
+                [
+                    52,
+                    1288
+                ],
+                [
+                    756,
+                    1288
+                ],
+                [
+                    756,
+                    1316
+                ],
+                [
+                    52,
+                    1316
+                ]
+            ],
+            "coordinates": [
+                52,
+                1288,
+                756,
+                1316
+            ]
+        },
+        {
+            "text": "projects efficiently:",
+            "confidence": 94.68,
+            "bbox": [
+                [
+                    74,
+                    1310
+                ],
+                [
+                    279,
+                    1310
+                ],
+                [
+                    279,
+                    1348
+                ],
+                [
+                    74,
+                    1348
+                ]
+            ],
+            "coordinates": [
+                74,
+                1310,
+                279,
+                1348
+            ]
+        },
+        {
+            "text": "4. Maintained accurate records of equipment usage and",
+            "confidence": 89.36,
+            "bbox": [
+                [
+                    50,
+                    1342
+                ],
+                [
+                    653,
+                    1342
+                ],
+                [
+                    653,
+                    1373
+                ],
+                [
+                    50,
+                    1373
+                ]
+            ],
+            "coordinates": [
+                50,
+                1342,
+                653,
+                1373
+            ]
+        },
+        {
+            "text": "LANGUAGES",
+            "confidence": 89.69,
+            "bbox": [
+                [
+                    897,
+                    1337
+                ],
+                [
+                    1081,
+                    1337
+                ],
+                [
+                    1081,
+                    1370
+                ],
+                [
+                    897,
+                    1370
+                ]
+            ],
+            "coordinates": [
+                897,
+                1337,
+                1081,
+                1370
+            ]
+        },
+        {
+            "text": "maintenance schedules:",
+            "confidence": 75.73,
+            "bbox": [
+                [
+                    75,
+                    1370
+                ],
+                [
+                    340,
+                    1370
+                ],
+                [
+                    340,
+                    1396
+                ],
+                [
+                    75,
+                    1396
+                ]
+            ],
+            "coordinates": [
+                75,
+                1370,
+                340,
+                1396
+            ]
+        },
+        {
+            "text": "5. Trained new technicians on safety protocols and equipment",
+            "confidence": 97.84,
+            "bbox": [
+                [
+                    51,
+                    1392
+                ],
+                [
+                    713,
+                    1392
+                ],
+                [
+                    713,
+                    1429
+                ],
+                [
+                    51,
+                    1429
+                ]
+            ],
+            "coordinates": [
+                51,
+                1392,
+                713,
+                1429
+            ]
+        },
+        {
+            "text": "handling:",
+            "confidence": 80.32,
+            "bbox": [
+                [
+                    73,
+                    1418
+                ],
+                [
+                    181,
+                    1418
+                ],
+                [
+                    181,
+                    1456
+                ],
+                [
+                    73,
+                    1456
+                ]
+            ],
+            "coordinates": [
+                73,
+                1418,
+                181,
+                1456
+            ]
+        },
+        {
+            "text": "O",
+            "confidence": 26.04,
+            "bbox": [
+                [
+                    1023,
+                    1385
+                ],
+                [
+                    1115,
+                    1385
+                ],
+                [
+                    1115,
+                    1478
+                ],
+                [
+                    1023,
+                    1478
+                ]
+            ],
+            "coordinates": [
+                1023,
+                1385,
+                1115,
+                1478
+            ]
+        },
+        {
+            "text": "0",
+            "confidence": 81.03,
+            "bbox": [
+                [
+                    1182,
+                    1385
+                ],
+                [
+                    1281,
+                    1385
+                ],
+                [
+                    1281,
+                    1486
+                ],
+                [
+                    1182,
+                    1486
+                ]
+            ],
+            "coordinates": [
+                1182,
+                1385,
+                1281,
+                1486
+            ]
+        },
+        {
+            "text": "English",
+            "confidence": 100.0,
+            "bbox": [
+                [
+                    869,
+                    1502
+                ],
+                [
+                    950,
+                    1502
+                ],
+                [
+                    950,
+                    1533
+                ],
+                [
+                    869,
+                    1533
+                ]
+            ],
+            "coordinates": [
+                869,
+                1502,
+                950,
+                1533
+            ]
+        },
+        {
+            "text": "Arabic",
+            "confidence": 100.0,
+            "bbox": [
+                [
+                    1039,
+                    1504
+                ],
+                [
+                    1115,
+                    1504
+                ],
+                [
+                    1115,
+                    1530
+                ],
+                [
+                    1039,
+                    1530
+                ]
+            ],
+            "coordinates": [
+                1039,
+                1504,
+                1115,
+                1530
+            ]
+        },
+        {
+            "text": "German",
+            "confidence": 66.28,
+            "bbox": [
+                [
+                    1194,
+                    1504
+                ],
+                [
+                    1289,
+                    1504
+                ],
+                [
+                    1289,
+                    1531
+                ],
+                [
+                    1194,
+                    1531
+                ]
+            ],
+            "coordinates": [
+                1194,
+                1504,
+                1289,
+                1531
+            ]
+        },
+        {
+            "text": "EDUCATION",
+            "confidence": 100.0,
+            "bbox": [
+                [
+                    106,
+                    1556
+                ],
+                [
+                    283,
+                    1556
+                ],
+                [
+                    283,
+                    1589
+                ],
+                [
+                    106,
+                    1589
+                ]
+            ],
+            "coordinates": [
+                106,
+                1556,
+                283,
+                1589
+            ]
+        },
+        {
+            "text": "Associate of Applied Science in",
+            "confidence": 62.86,
+            "bbox": [
+                [
+                    57,
+                    1601
+                ],
+                [
+                    439,
+                    1601
+                ],
+                [
+                    439,
+                    1638
+                ],
+                [
+                    57,
+                    1638
+                ]
+            ],
+            "coordinates": [
+                57,
+                1601,
+                439,
+                1638
+            ]
+        },
+        {
+            "text": "Jan",
+            "confidence": 100.0,
+            "bbox": [
+                [
+                    640,
+                    1606
+                ],
+                [
+                    676,
+                    1606
+                ],
+                [
+                    676,
+                    1626
+                ],
+                [
+                    640,
+                    1626
+                ]
+            ],
+            "coordinates": [
+                640,
+                1606,
+                676,
+                1626
+            ]
+        },
+        {
+            "text": "Jan",
+            "confidence": 99.98,
+            "bbox": [
+                [
+                    718,
+                    1606
+                ],
+                [
+                    753,
+                    1606
+                ],
+                [
+                    753,
+                    1626
+                ],
+                [
+                    718,
+                    1626
+                ]
+            ],
+            "coordinates": [
+                718,
+                1606,
+                753,
+                1626
+            ]
+        },
+        {
+            "text": "Telecommunications",
+            "confidence": 100.0,
+            "bbox": [
+                [
+                    58,
+                    1633
+                ],
+                [
+                    320,
+                    1633
+                ],
+                [
+                    320,
+                    1662
+                ],
+                [
+                    58,
+                    1662
+                ]
+            ],
+            "coordinates": [
+                58,
+                1633,
+                320,
+                1662
+            ]
+        },
+        {
+            "text": "2022",
+            "confidence": 62.38,
+            "bbox": [
+                [
+                    640,
+                    1630
+                ],
+                [
+                    685,
+                    1630
+                ],
+                [
+                    685,
+                    1651
+                ],
+                [
+                    640,
+                    1651
+                ]
+            ],
+            "coordinates": [
+                640,
+                1630,
+                685,
+                1651
+            ]
+        },
+        {
+            "text": "2023",
+            "confidence": 100.0,
+            "bbox": [
+                [
+                    718,
+                    1630
+                ],
+                [
+                    763,
+                    1630
+                ],
+                [
+                    763,
+                    1651
+                ],
+                [
+                    718,
+                    1651
+                ]
+            ],
+            "coordinates": [
+                718,
+                1630,
+                763,
+                1651
+            ]
+        },
+        {
+            "text": "ACHIEVEMENTS",
+            "confidence": 99.96,
+            "bbox": [
+                [
+                    896,
+                    1623
+                ],
+                [
+                    1129,
+                    1623
+                ],
+                [
+                    1129,
+                    1656
+                ],
+                [
+                    896,
+                    1656
+                ]
+            ],
+            "coordinates": [
+                896,
+                1623,
+                1129,
+                1656
+            ]
+        },
+        {
+            "text": "Tech Valley Community College",
+            "confidence": 95.4,
+            "bbox": [
+                [
+                    56,
+                    1667
+                ],
+                [
+                    400,
+                    1667
+                ],
+                [
+                    400,
+                    1706
+                ],
+                [
+                    56,
+                    1706
+                ]
+            ],
+            "coordinates": [
+                56,
+                1667,
+                400,
+                1706
+            ]
+        },
+        {
+            "text": "1 Portland, OR",
+            "confidence": 80.44,
+            "bbox": [
+                [
+                    669,
+                    1671
+                ],
+                [
+                    794,
+                    1671
+                ],
+                [
+                    794,
+                    1695
+                ],
+                [
+                    669,
+                    1695
+                ]
+            ],
+            "coordinates": [
+                669,
+                1671,
+                794,
+                1695
+            ]
+        },
+        {
+            "text": "Successfully completed over 50 tower",
+            "confidence": 99.98,
+            "bbox": [
+                [
+                    893,
+                    1670
+                ],
+                [
+                    1296,
+                    1670
+                ],
+                [
+                    1296,
+                    1701
+                ],
+                [
+                    893,
+                    1701
+                ]
+            ],
+            "coordinates": [
+                893,
+                1670,
+                1296,
+                1701
+            ]
+        },
+        {
+            "text": "Focused on telecommunications technology, including tower",
+            "confidence": 80.24,
+            "bbox": [
+                [
+                    56,
+                    1703
+                ],
+                [
+                    704,
+                    1703
+                ],
+                [
+                    704,
+                    1740
+                ],
+                [
+                    56,
+                    1740
+                ]
+            ],
+            "coordinates": [
+                56,
+                1703,
+                704,
+                1740
+            ]
+        },
+        {
+            "text": "installations within deadlines:",
+            "confidence": 73.49,
+            "bbox": [
+                [
+                    891,
+                    1695
+                ],
+                [
+                    1207,
+                    1695
+                ],
+                [
+                    1207,
+                    1725
+                ],
+                [
+                    891,
+                    1725
+                ]
+            ],
+            "coordinates": [
+                891,
+                1695,
+                1207,
+                1725
+            ]
+        },
+        {
+            "text": "construction and maintenance:",
+            "confidence": 93.77,
+            "bbox": [
+                [
+                    55,
+                    1734
+                ],
+                [
+                    390,
+                    1734
+                ],
+                [
+                    390,
+                    1760
+                ],
+                [
+                    55,
+                    1760
+                ]
+            ],
+            "coordinates": [
+                55,
+                1734,
+                390,
+                1760
+            ]
+        },
+        {
+            "text": "Achieved a 98% safety compliance rate",
+            "confidence": 95.29,
+            "bbox": [
+                [
+                    892,
+                    1733
+                ],
+                [
+                    1315,
+                    1733
+                ],
+                [
+                    1315,
+                    1772
+                ],
+                [
+                    892,
+                    1772
+                ]
+            ],
+            "coordinates": [
+                892,
+                1733,
+                1315,
+                1772
+            ]
+        },
+        {
+            "text": "during tower operations:",
+            "confidence": 81.97,
+            "bbox": [
+                [
+                    891,
+                    1762
+                ],
+                [
+                    1156,
+                    1762
+                ],
+                [
+                    1156,
+                    1796
+                ],
+                [
+                    891,
+                    1796
+                ]
+            ],
+            "coordinates": [
+                891,
+                1762,
+                1156,
+                1796
+            ]
+        },
+        {
+            "text": "Powered by Q Qwikresume",
+            "confidence": 56.17,
+            "bbox": [
+                [
+                    56,
+                    1895
+                ],
+                [
+                    293,
+                    1895
+                ],
+                [
+                    293,
+                    1930
+                ],
+                [
+                    56,
+                    1930
+                ]
+            ],
+            "coordinates": [
+                56,
+                1895,
+                293,
+                1930
+            ]
+        },
+        {
+            "text": "WWW.qwikresume.com",
+            "confidence": 82.03,
+            "bbox": [
+                [
+                    1183,
+                    1904
+                ],
+                [
+                    1350,
+                    1904
+                ],
+                [
+                    1350,
+                    1926
+                ],
+                [
+                    1183,
+                    1926
+                ]
+            ],
+            "coordinates": [
+                1183,
+                1904,
+                1350,
+                1926
+            ]
+        }
+    ],
+    "ocr_selection": "raw",
+    "preprocessing_applied": false,
+    "selection_reason": "Enhanced image did not improve OCR confidence.",
+    "raw_average_confidence": 84.73,
+    "enhanced_average_confidence": 82.97,
+    "confidence_improvement": -1.76,
+    "raw_detections_count": 86,
+    "enhanced_detections_count": 83,
+    "detection_ratio": 0.97,
+    "final_extracted_text": "support@qwikresume.com (123) 456 7899 SOPHIA BROWN Los Angeles Tower Technician WWW.qwikresume.com PROFESSIONAL SUMMARY SKILLS Skilled Tower Technician with 2 years of experience in installation and Data Analysis maintenance of communication towers: Proficient in safety protocols and equipment handling, ensuring optimal performance and = compliance with industry standards Safety Compliance Equipment Maintenance WORK EXPERIENCE Executive Tower Technician Jan / 2024-Ongoing Antenna Installation Blue Sky Innovations 1 Chicago, IL safety equipment; including full-body harnesses, to climb 1. Utilized Climbing Techniques towers and access components: 2. Executed assembly and erection of communication towers using advanced rigging techniques: 3. Bolted equipment securely in place with hand and power tools, ensuring structural integrity: 4. Checked antenna positioning for specified azimuths and INTERESTS mechanical tilts, making adjustments as needed: 5. Installed, replaced, and repaired antennas and auxiliary equipment Language Learning Podcasts on communication towers: 6. Completed detailed reports on project status and progress using Dancing Cycling specialized software. 7. Conducted thorough inspections of completed work to verify hardware tightness and weatherproofing: STRENGTHS Tower technician Jan / 2023-Jan / 2024 Silver Lake Enterprises 4 Seattie, WA Leadershlp; Inituitioni 1. Climbed communication towers to perform routine maintenance and repairs on antennas: Listening; Mentorship 2. Ensured compliance with safety regulations while working at heights: 3. Collaborated with team members to execute tower construction projects efficiently: LANGUAGES 4. Maintained accurate records of equipment usage and maintenance schedules: O 0 5. Trained new technicians on safety protocols and equipment handling: English Arabic German EDUCATION Associate of Applied Science in Jan Jan ACHIEVEMENTS 2022 2023 Telecommunications Tech Valley Community College Successfully completed over 50 tower 1 Portland, OR installations within deadlines: Focused on telecommunications technology, including tower Achieved a 98% safety compliance rate construction and maintenance: during tower operations: Powered by Q Qwikresume WWW.qwikresume.com",
+    "ground_truth": {
+        "available": true,
+        "raw": {
+            "extracted_text": "support@qwikresume.com (123) 456 7899 SOPHIA BROWN Los Angeles Tower Technician WWW.qwikresume.com PROFESSIONAL SUMMARY SKILLS Skilled Tower Technician with 2 years of experience in installation and Data Analysis maintenance of communication towers: Proficient in safety protocols and equipment handling, ensuring optimal performance and = compliance with industry standards Safety Compliance Equipment Maintenance WORK EXPERIENCE Executive Tower Technician Jan / 2024-Ongoing Antenna Installation Blue Sky Innovations 1 Chicago, IL safety equipment; including full-body harnesses, to climb 1. Utilized Climbing Techniques towers and access components: 2. Executed assembly and erection of communication towers using advanced rigging techniques: 3. Bolted equipment securely in place with hand and power tools, ensuring structural integrity: 4. Checked antenna positioning for specified azimuths and INTERESTS mechanical tilts, making adjustments as needed: 5. Installed, replaced, and repaired antennas and auxiliary equipment Language Learning Podcasts on communication towers: 6. Completed detailed reports on project status and progress using Dancing Cycling specialized software. 7. Conducted thorough inspections of completed work to verify hardware tightness and weatherproofing: STRENGTHS Tower technician Jan / 2023-Jan / 2024 Silver Lake Enterprises 4 Seattie, WA Leadershlp; Inituitioni 1. Climbed communication towers to perform routine maintenance and repairs on antennas: Listening; Mentorship 2. Ensured compliance with safety regulations while working at heights: 3. Collaborated with team members to execute tower construction projects efficiently: LANGUAGES 4. Maintained accurate records of equipment usage and maintenance schedules: O 0 5. Trained new technicians on safety protocols and equipment handling: English Arabic German EDUCATION Associate of Applied Science in Jan Jan ACHIEVEMENTS 2022 2023 Telecommunications Tech Valley Community College Successfully completed over 50 tower 1 Portland, OR installations within deadlines: Focused on telecommunications technology, including tower Achieved a 98% safety compliance rate construction and maintenance: during tower operations: Powered by Q Qwikresume WWW.qwikresume.com",
+            "character_error_rate": 0.3198,
+            "word_error_rate": 0.3381,
+            "character_accuracy": 68.02,
+            "word_accuracy": 66.19
+        },
+        "enhanced": {
+            "extracted_text": "support@qwikresume.com (123) 456 7899 SOPHIA BROWN Los Angeles Tower Technician WWWqwikresume.com 0 PROFESSIONAL SUMMARY SKILLS Skilled Tower Technician with 2 years of experience in installation and Data Analysis maintenance of communication towers Proficient in safety protocols and equipment handling, ensuring optimal performance and E compliance with industry standards' Safety Compliance Equipment Maintenance WORK EXPERIENCE Executive Tower Technician Jon /2o croo9in8 Antenna Installation 1. Utilized safety equipment, including full-body harnesses, to climb Climbing Techniques towers and access components: 2. Executed assembly and erection of communication towers using advanced rigging techniques: 3. Bolted equipment securely in place with hand and power tools, ensuring structural integrity: 4. Checked antenna positioning for specified azimuths and INTERESTS mechanical tilts, making adjustments as needed: 5. Installed, replaced,and repaired antennas and auxiliary equipment Language Learning Podcasts on communication towers: 6. Completed detailed reports on project status and progress using Dancing Cycling G0 specialized software: 7. Conducted thorough inspections of completed work to verify hardware tightness and weatherproofing: STRENGTHS Tower technician Jan / 2023-Jan / 2024 Silver Lake Enterprises Seattle; WA Intultion leadership 1. Climbed communication towers to perform routine maintenance and repairs on antennas: Listening Mentorship 2. Ensured compliance with safety regulations while working at heights: 3. Collaborated with team members to execute tower construction projects efficiently: LANGUAGES 4. Maintained accurate records of equipment usage and maintenance schedules: 0 0 0 5. Trained new technicians on safety protocols and equipment handling: English German Arabic EDUCATION Associate of Applied Science in Jan / Jan / ACHIEVEMENTS 2022 2023 Telecommunications Successfully completed over 50 tower Tech Valley Communlty College Portland, OR installations within deadlines: Focused on telecommunications technology, including tower Achieved a 98% safety compliance rate construction and maintenance: during tower operations Powered by CQwikresume WWW.qwikresume.com",
+            "character_error_rate": 0.3162,
+            "word_error_rate": 0.363,
+            "character_accuracy": 68.38,
+            "word_accuracy": 63.7
+        },
+        "final": {
+            "extracted_text": "support@qwikresume.com (123) 456 7899 SOPHIA BROWN Los Angeles Tower Technician WWW.qwikresume.com PROFESSIONAL SUMMARY SKILLS Skilled Tower Technician with 2 years of experience in installation and Data Analysis maintenance of communication towers: Proficient in safety protocols and equipment handling, ensuring optimal performance and = compliance with industry standards Safety Compliance Equipment Maintenance WORK EXPERIENCE Executive Tower Technician Jan / 2024-Ongoing Antenna Installation Blue Sky Innovations 1 Chicago, IL safety equipment; including full-body harnesses, to climb 1. Utilized Climbing Techniques towers and access components: 2. Executed assembly and erection of communication towers using advanced rigging techniques: 3. Bolted equipment securely in place with hand and power tools, ensuring structural integrity: 4. Checked antenna positioning for specified azimuths and INTERESTS mechanical tilts, making adjustments as needed: 5. Installed, replaced, and repaired antennas and auxiliary equipment Language Learning Podcasts on communication towers: 6. Completed detailed reports on project status and progress using Dancing Cycling specialized software. 7. Conducted thorough inspections of completed work to verify hardware tightness and weatherproofing: STRENGTHS Tower technician Jan / 2023-Jan / 2024 Silver Lake Enterprises 4 Seattie, WA Leadershlp; Inituitioni 1. Climbed communication towers to perform routine maintenance and repairs on antennas: Listening; Mentorship 2. Ensured compliance with safety regulations while working at heights: 3. Collaborated with team members to execute tower construction projects efficiently: LANGUAGES 4. Maintained accurate records of equipment usage and maintenance schedules: O 0 5. Trained new technicians on safety protocols and equipment handling: English Arabic German EDUCATION Associate of Applied Science in Jan Jan ACHIEVEMENTS 2022 2023 Telecommunications Tech Valley Community College Successfully completed over 50 tower 1 Portland, OR installations within deadlines: Focused on telecommunications technology, including tower Achieved a 98% safety compliance rate construction and maintenance: during tower operations: Powered by Q Qwikresume WWW.qwikresume.com",
+            "character_error_rate": 0.3198,
+            "word_error_rate": 0.3381,
+            "character_accuracy": 68.02,
+            "word_accuracy": 66.19
+        },
+        "best_choice": "enhanced",
+        "selection_matches_ground_truth": false
+    }
 }

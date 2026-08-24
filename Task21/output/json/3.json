@@ -2917,5 +2917,1499 @@
                 895
             ]
         }
-    ]
+    ],
+    "final_ocr": [
+        {
+            "text": "Nabihah",
+            "confidence": 100.0,
+            "bbox": [
+                [
+                    46,
+                    41
+                ],
+                [
+                    149,
+                    41
+                ],
+                [
+                    149,
+                    69
+                ],
+                [
+                    46,
+                    69
+                ]
+            ],
+            "coordinates": [
+                46,
+                41,
+                149,
+                69
+            ]
+        },
+        {
+            "text": "Details",
+            "confidence": 100.0,
+            "bbox": [
+                [
+                    251,
+                    63
+                ],
+                [
+                    295,
+                    63
+                ],
+                [
+                    295,
+                    77
+                ],
+                [
+                    251,
+                    77
+                ]
+            ],
+            "coordinates": [
+                251,
+                63,
+                295,
+                77
+            ]
+        },
+        {
+            "text": "Mcgeehon",
+            "confidence": 99.99,
+            "bbox": [
+                [
+                    45,
+                    70
+                ],
+                [
+                    171,
+                    70
+                ],
+                [
+                    171,
+                    106
+                ],
+                [
+                    45,
+                    106
+                ]
+            ],
+            "coordinates": [
+                45,
+                70,
+                171,
+                106
+            ]
+        },
+        {
+            "text": "nabihah mceehon@gmailcom",
+            "confidence": 74.45,
+            "bbox": [
+                [
+                    250,
+                    80
+                ],
+                [
+                    407,
+                    80
+                ],
+                [
+                    407,
+                    95
+                ],
+                [
+                    250,
+                    95
+                ]
+            ],
+            "coordinates": [
+                250,
+                80,
+                407,
+                95
+            ]
+        },
+        {
+            "text": "(455) 918-8162",
+            "confidence": 91.17,
+            "bbox": [
+                [
+                    249,
+                    94
+                ],
+                [
+                    324,
+                    94
+                ],
+                [
+                    324,
+                    109
+                ],
+                [
+                    249,
+                    109
+                ]
+            ],
+            "coordinates": [
+                249,
+                94,
+                324,
+                109
+            ]
+        },
+        {
+            "text": "NVH Engineer",
+            "confidence": 99.97,
+            "bbox": [
+                [
+                    46,
+                    103
+                ],
+                [
+                    158,
+                    103
+                ],
+                [
+                    158,
+                    128
+                ],
+                [
+                    46,
+                    128
+                ]
+            ],
+            "coordinates": [
+                46,
+                103,
+                158,
+                128
+            ]
+        },
+        {
+            "text": "127 Oak Street; Little Rock, AR 72201",
+            "confidence": 64.5,
+            "bbox": [
+                [
+                    251,
+                    109
+                ],
+                [
+                    428,
+                    109
+                ],
+                [
+                    428,
+                    124
+                ],
+                [
+                    251,
+                    124
+                ]
+            ],
+            "coordinates": [
+                251,
+                109,
+                428,
+                124
+            ]
+        },
+        {
+            "text": "Profile",
+            "confidence": 99.99,
+            "bbox": [
+                [
+                    46,
+                    163
+                ],
+                [
+                    89,
+                    163
+                ],
+                [
+                    89,
+                    178
+                ],
+                [
+                    46,
+                    178
+                ]
+            ],
+            "coordinates": [
+                46,
+                163,
+                89,
+                178
+            ]
+        },
+        {
+            "text": "NVH Engineer with 1 year of experience in the automotive industry,",
+            "confidence": 74.07,
+            "bbox": [
+                [
+                    250,
+                    164
+                ],
+                [
+                    574,
+                    164
+                ],
+                [
+                    574,
+                    182
+                ],
+                [
+                    250,
+                    182
+                ]
+            ],
+            "coordinates": [
+                250,
+                164,
+                574,
+                182
+            ]
+        },
+        {
+            "text": "demonstrating expertise in noise, vibration, and harshness analysis and",
+            "confidence": 76.6,
+            "bbox": [
+                [
+                    249,
+                    178
+                ],
+                [
+                    596,
+                    178
+                ],
+                [
+                    596,
+                    196
+                ],
+                [
+                    249,
+                    196
+                ]
+            ],
+            "coordinates": [
+                249,
+                178,
+                596,
+                196
+            ]
+        },
+        {
+            "text": "mitigation. Proficient in using advanced simulation tools and testing",
+            "confidence": 77.71,
+            "bbox": [
+                [
+                    250,
+                    193
+                ],
+                [
+                    581,
+                    193
+                ],
+                [
+                    581,
+                    212
+                ],
+                [
+                    250,
+                    212
+                ]
+            ],
+            "coordinates": [
+                250,
+                193,
+                581,
+                212
+            ]
+        },
+        {
+            "text": "techniques to optimize vehicle performance and comfort: Skilled in",
+            "confidence": 80.07,
+            "bbox": [
+                [
+                    250,
+                    209
+                ],
+                [
+                    575,
+                    209
+                ],
+                [
+                    575,
+                    226
+                ],
+                [
+                    250,
+                    226
+                ]
+            ],
+            "coordinates": [
+                250,
+                209,
+                575,
+                226
+            ]
+        },
+        {
+            "text": "collaborating with cross-functional teams to ensure design objectives are",
+            "confidence": 74.94,
+            "bbox": [
+                [
+                    249,
+                    223
+                ],
+                [
+                    604,
+                    223
+                ],
+                [
+                    604,
+                    242
+                ],
+                [
+                    249,
+                    242
+                ]
+            ],
+            "coordinates": [
+                249,
+                223,
+                604,
+                242
+            ]
+        },
+        {
+            "text": "met while adhering to industry standards and regulations. A motivated",
+            "confidence": 76.0,
+            "bbox": [
+                [
+                    250,
+                    239
+                ],
+                [
+                    591,
+                    239
+                ],
+                [
+                    591,
+                    257
+                ],
+                [
+                    250,
+                    257
+                ]
+            ],
+            "coordinates": [
+                250,
+                239,
+                591,
+                257
+            ]
+        },
+        {
+            "text": "problem solver, committed to continuous learning and improvement in",
+            "confidence": 91.21,
+            "bbox": [
+                [
+                    249,
+                    253
+                ],
+                [
+                    594,
+                    253
+                ],
+                [
+                    594,
+                    272
+                ],
+                [
+                    249,
+                    272
+                ]
+            ],
+            "coordinates": [
+                249,
+                253,
+                594,
+                272
+            ]
+        },
+        {
+            "text": "the field of NVH engineering:",
+            "confidence": 86.12,
+            "bbox": [
+                [
+                    250,
+                    270
+                ],
+                [
+                    391,
+                    270
+                ],
+                [
+                    391,
+                    286
+                ],
+                [
+                    250,
+                    286
+                ]
+            ],
+            "coordinates": [
+                250,
+                270,
+                391,
+                286
+            ]
+        },
+        {
+            "text": "Employment History",
+            "confidence": 91.06,
+            "bbox": [
+                [
+                    45,
+                    322
+                ],
+                [
+                    172,
+                    322
+                ],
+                [
+                    172,
+                    341
+                ],
+                [
+                    45,
+                    341
+                ]
+            ],
+            "coordinates": [
+                45,
+                322,
+                172,
+                341
+            ]
+        },
+        {
+            "text": "NVH Engineer at Caterpillar Inc,, AR",
+            "confidence": 70.61,
+            "bbox": [
+                [
+                    250,
+                    325
+                ],
+                [
+                    444,
+                    325
+                ],
+                [
+                    444,
+                    343
+                ],
+                [
+                    250,
+                    343
+                ]
+            ],
+            "coordinates": [
+                250,
+                325,
+                444,
+                343
+            ]
+        },
+        {
+            "text": "Apr 2023 . Present",
+            "confidence": 62.03,
+            "bbox": [
+                [
+                    250,
+                    342
+                ],
+                [
+                    333,
+                    342
+                ],
+                [
+                    333,
+                    355
+                ],
+                [
+                    250,
+                    355
+                ]
+            ],
+            "coordinates": [
+                250,
+                342,
+                333,
+                355
+            ]
+        },
+        {
+            "text": "Led a team that achieved a 2030 reduction in noise levels for heavy",
+            "confidence": 69.79,
+            "bbox": [
+                [
+                    270,
+                    361
+                ],
+                [
+                    592,
+                    361
+                ],
+                [
+                    592,
+                    377
+                ],
+                [
+                    270,
+                    377
+                ]
+            ],
+            "coordinates": [
+                270,
+                361,
+                592,
+                377
+            ]
+        },
+        {
+            "text": "machinery, resulting in improved operator comfort and compliance",
+            "confidence": 92.26,
+            "bbox": [
+                [
+                    271,
+                    374
+                ],
+                [
+                    597,
+                    374
+                ],
+                [
+                    597,
+                    393
+                ],
+                [
+                    271,
+                    393
+                ]
+            ],
+            "coordinates": [
+                271,
+                374,
+                597,
+                393
+            ]
+        },
+        {
+            "text": "with government regulations:",
+            "confidence": 65.09,
+            "bbox": [
+                [
+                    270,
+                    390
+                ],
+                [
+                    417,
+                    390
+                ],
+                [
+                    417,
+                    408
+                ],
+                [
+                    270,
+                    408
+                ]
+            ],
+            "coordinates": [
+                270,
+                390,
+                417,
+                408
+            ]
+        },
+        {
+            "text": "Developed and implemented an innovative vibration isolation system",
+            "confidence": 96.34,
+            "bbox": [
+                [
+                    271,
+                    406
+                ],
+                [
+                    604,
+                    406
+                ],
+                [
+                    604,
+                    423
+                ],
+                [
+                    271,
+                    423
+                ]
+            ],
+            "coordinates": [
+                271,
+                406,
+                604,
+                423
+            ]
+        },
+        {
+            "text": "that reduced vibrations by 25% in key components, extending the",
+            "confidence": 91.25,
+            "bbox": [
+                [
+                    270,
+                    420
+                ],
+                [
+                    588,
+                    420
+                ],
+                [
+                    588,
+                    438
+                ],
+                [
+                    270,
+                    438
+                ]
+            ],
+            "coordinates": [
+                270,
+                420,
+                588,
+                438
+            ]
+        },
+        {
+            "text": "lifespan of equipment by 1596.",
+            "confidence": 64.57,
+            "bbox": [
+                [
+                    269,
+                    435
+                ],
+                [
+                    420,
+                    435
+                ],
+                [
+                    420,
+                    454
+                ],
+                [
+                    269,
+                    454
+                ]
+            ],
+            "coordinates": [
+                269,
+                435,
+                420,
+                454
+            ]
+        },
+        {
+            "text": "Successfully managed a S1.5 million budget for NVH-related projects,",
+            "confidence": 68.65,
+            "bbox": [
+                [
+                    271,
+                    452
+                ],
+                [
+                    604,
+                    452
+                ],
+                [
+                    604,
+                    468
+                ],
+                [
+                    271,
+                    468
+                ]
+            ],
+            "coordinates": [
+                271,
+                452,
+                604,
+                468
+            ]
+        },
+        {
+            "text": "ensuring timely completion and maximizing return on investment:",
+            "confidence": 77.09,
+            "bbox": [
+                [
+                    270,
+                    464
+                ],
+                [
+                    592,
+                    464
+                ],
+                [
+                    592,
+                    484
+                ],
+                [
+                    270,
+                    484
+                ]
+            ],
+            "coordinates": [
+                270,
+                464,
+                592,
+                484
+            ]
+        },
+        {
+            "text": "Collaborated with cross-functional teams to optimize product",
+            "confidence": 57.93,
+            "bbox": [
+                [
+                    271,
+                    481
+                ],
+                [
+                    570,
+                    481
+                ],
+                [
+                    570,
+                    497
+                ],
+                [
+                    271,
+                    497
+                ]
+            ],
+            "coordinates": [
+                271,
+                481,
+                570,
+                497
+            ]
+        },
+        {
+            "text": "designs, resulting in a 1096 improvement in overall machine",
+            "confidence": 67.36,
+            "bbox": [
+                [
+                    270,
+                    495
+                ],
+                [
+                    560,
+                    495
+                ],
+                [
+                    560,
+                    513
+                ],
+                [
+                    270,
+                    513
+                ]
+            ],
+            "coordinates": [
+                270,
+                495,
+                560,
+                513
+            ]
+        },
+        {
+            "text": "performance and a 590 reduction in warranty claims related to NVH",
+            "confidence": 94.63,
+            "bbox": [
+                [
+                    271,
+                    511
+                ],
+                [
+                    594,
+                    511
+                ],
+                [
+                    594,
+                    527
+                ],
+                [
+                    271,
+                    527
+                ]
+            ],
+            "coordinates": [
+                271,
+                511,
+                594,
+                527
+            ]
+        },
+        {
+            "text": "issues:",
+            "confidence": 59.78,
+            "bbox": [
+                [
+                    271,
+                    527
+                ],
+                [
+                    307,
+                    527
+                ],
+                [
+                    307,
+                    541
+                ],
+                [
+                    271,
+                    541
+                ]
+            ],
+            "coordinates": [
+                271,
+                527,
+                307,
+                541
+            ]
+        },
+        {
+            "text": "Associate NVH Engineer at Hytrol Conveyor Company, AR",
+            "confidence": 84.3,
+            "bbox": [
+                [
+                    250,
+                    553
+                ],
+                [
+                    559,
+                    553
+                ],
+                [
+                    559,
+                    571
+                ],
+                [
+                    250,
+                    571
+                ]
+            ],
+            "coordinates": [
+                250,
+                553,
+                559,
+                571
+            ]
+        },
+        {
+            "text": "Jul 2022 - Mar 2023",
+            "confidence": 65.43,
+            "bbox": [
+                [
+                    251,
+                    570
+                ],
+                [
+                    336,
+                    570
+                ],
+                [
+                    336,
+                    582
+                ],
+                [
+                    251,
+                    582
+                ]
+            ],
+            "coordinates": [
+                251,
+                570,
+                336,
+                582
+            ]
+        },
+        {
+            "text": "Significantly reduced noiselevelsofconveyor systems by 30%through",
+            "confidence": 64.47,
+            "bbox": [
+                [
+                    271,
+                    589
+                ],
+                [
+                    605,
+                    589
+                ],
+                [
+                    605,
+                    605
+                ],
+                [
+                    271,
+                    605
+                ]
+            ],
+            "coordinates": [
+                271,
+                589,
+                605,
+                605
+            ]
+        },
+        {
+            "text": "implementing advanced noise reduction techniques and materials;",
+            "confidence": 68.86,
+            "bbox": [
+                [
+                    271,
+                    604
+                ],
+                [
+                    595,
+                    604
+                ],
+                [
+                    595,
+                    620
+                ],
+                [
+                    271,
+                    620
+                ]
+            ],
+            "coordinates": [
+                271,
+                604,
+                595,
+                620
+            ]
+        },
+        {
+            "text": "resulting in improved workplace safety and customer satisfaction.",
+            "confidence": 80.41,
+            "bbox": [
+                [
+                    270,
+                    617
+                ],
+                [
+                    589,
+                    617
+                ],
+                [
+                    589,
+                    636
+                ],
+                [
+                    270,
+                    636
+                ]
+            ],
+            "coordinates": [
+                270,
+                617,
+                589,
+                636
+            ]
+        },
+        {
+            "text": "Developed and validated a new simulation model for predicting",
+            "confidence": 74.72,
+            "bbox": [
+                [
+                    271,
+                    634
+                ],
+                [
+                    579,
+                    634
+                ],
+                [
+                    579,
+                    650
+                ],
+                [
+                    271,
+                    650
+                ]
+            ],
+            "coordinates": [
+                271,
+                634,
+                579,
+                650
+            ]
+        },
+        {
+            "text": "vibrations in conveyor systems, which increased the accuracy of",
+            "confidence": 77.35,
+            "bbox": [
+                [
+                    271,
+                    649
+                ],
+                [
+                    580,
+                    649
+                ],
+                [
+                    580,
+                    665
+                ],
+                [
+                    271,
+                    665
+                ]
+            ],
+            "coordinates": [
+                271,
+                649,
+                580,
+                665
+            ]
+        },
+        {
+            "text": "predictions by 25%0 and streamlined the design process:",
+            "confidence": 70.91,
+            "bbox": [
+                [
+                    270,
+                    664
+                ],
+                [
+                    541,
+                    664
+                ],
+                [
+                    541,
+                    680
+                ],
+                [
+                    270,
+                    680
+                ]
+            ],
+            "coordinates": [
+                270,
+                664,
+                541,
+                680
+            ]
+        },
+        {
+            "text": "Successfully led a cross-functional team in the development and",
+            "confidence": 87.5,
+            "bbox": [
+                [
+                    271,
+                    679
+                ],
+                [
+                    582,
+                    679
+                ],
+                [
+                    582,
+                    695
+                ],
+                [
+                    271,
+                    695
+                ]
+            ],
+            "coordinates": [
+                271,
+                679,
+                582,
+                695
+            ]
+        },
+        {
+            "text": "Iaunch ofa new conveyor system that increased throughput by 2090,",
+            "confidence": 40.16,
+            "bbox": [
+                [
+                    271,
+                    694
+                ],
+                [
+                    601,
+                    694
+                ],
+                [
+                    601,
+                    710
+                ],
+                [
+                    271,
+                    710
+                ]
+            ],
+            "coordinates": [
+                271,
+                694,
+                601,
+                710
+            ]
+        },
+        {
+            "text": "reducing operational costs for clients and boosting sales for the",
+            "confidence": 83.69,
+            "bbox": [
+                [
+                    270,
+                    707
+                ],
+                [
+                    577,
+                    707
+                ],
+                [
+                    577,
+                    726
+                ],
+                [
+                    270,
+                    726
+                ]
+            ],
+            "coordinates": [
+                270,
+                707,
+                577,
+                726
+            ]
+        },
+        {
+            "text": "company:",
+            "confidence": 76.45,
+            "bbox": [
+                [
+                    271,
+                    727
+                ],
+                [
+                    321,
+                    727
+                ],
+                [
+                    321,
+                    739
+                ],
+                [
+                    271,
+                    739
+                ]
+            ],
+            "coordinates": [
+                271,
+                727,
+                321,
+                739
+            ]
+        },
+        {
+            "text": "Implemented an enhanced testing process for conveyor components,",
+            "confidence": 72.19,
+            "bbox": [
+                [
+                    270,
+                    738
+                ],
+                [
+                    605,
+                    738
+                ],
+                [
+                    605,
+                    756
+                ],
+                [
+                    270,
+                    756
+                ]
+            ],
+            "coordinates": [
+                270,
+                738,
+                605,
+                756
+            ]
+        },
+        {
+            "text": "leading to a 15% reduction in warranty claims due to NVH-related",
+            "confidence": 79.9,
+            "bbox": [
+                [
+                    269,
+                    753
+                ],
+                [
+                    586,
+                    753
+                ],
+                [
+                    586,
+                    771
+                ],
+                [
+                    269,
+                    771
+                ]
+            ],
+            "coordinates": [
+                269,
+                753,
+                586,
+                771
+            ]
+        },
+        {
+            "text": "issues and contributing to a overall increase in product quality and",
+            "confidence": 78.77,
+            "bbox": [
+                [
+                    270,
+                    767
+                ],
+                [
+                    599,
+                    767
+                ],
+                [
+                    599,
+                    786
+                ],
+                [
+                    270,
+                    786
+                ]
+            ],
+            "coordinates": [
+                270,
+                767,
+                599,
+                786
+            ]
+        },
+        {
+            "text": "reliability:",
+            "confidence": 75.53,
+            "bbox": [
+                [
+                    270,
+                    784
+                ],
+                [
+                    323,
+                    784
+                ],
+                [
+                    323,
+                    800
+                ],
+                [
+                    270,
+                    800
+                ]
+            ],
+            "coordinates": [
+                270,
+                784,
+                323,
+                800
+            ]
+        },
+        {
+            "text": "Education",
+            "confidence": 100.0,
+            "bbox": [
+                [
+                    46,
+                    837
+                ],
+                [
+                    109,
+                    837
+                ],
+                [
+                    109,
+                    852
+                ],
+                [
+                    46,
+                    852
+                ]
+            ],
+            "coordinates": [
+                46,
+                837,
+                109,
+                852
+            ]
+        },
+        {
+            "text": "Bachelor of Science in Mechanical Engineering with a focus on",
+            "confidence": 78.62,
+            "bbox": [
+                [
+                    250,
+                    839
+                ],
+                [
+                    586,
+                    839
+                ],
+                [
+                    586,
+                    857
+                ],
+                [
+                    250,
+                    857
+                ]
+            ],
+            "coordinates": [
+                250,
+                839,
+                586,
+                857
+            ]
+        },
+        {
+            "text": "Noise, Vibration, and Harshness (NVH) at University of Arkansas,",
+            "confidence": 70.56,
+            "bbox": [
+                [
+                    250,
+                    854
+                ],
+                [
+                    598,
+                    854
+                ],
+                [
+                    598,
+                    873
+                ],
+                [
+                    250,
+                    873
+                ]
+            ],
+            "coordinates": [
+                250,
+                854,
+                598,
+                873
+            ]
+        },
+        {
+            "text": "Fayetteville; AR",
+            "confidence": 53.53,
+            "bbox": [
+                [
+                    251,
+                    873
+                ],
+                [
+                    337,
+                    873
+                ],
+                [
+                    337,
+                    889
+                ],
+                [
+                    251,
+                    889
+                ]
+            ],
+            "coordinates": [
+                251,
+                873,
+                337,
+                889
+            ]
+        },
+        {
+            "text": "Aug 2018 - May 2022",
+            "confidence": 99.03,
+            "bbox": [
+                [
+                    249,
+                    886
+                ],
+                [
+                    341,
+                    886
+                ],
+                [
+                    341,
+                    902
+                ],
+                [
+                    249,
+                    902
+                ]
+            ],
+            "coordinates": [
+                249,
+                886,
+                341,
+                902
+            ]
+        }
+    ],
+    "ocr_selection": "raw",
+    "preprocessing_applied": false,
+    "selection_reason": "Enhanced image did not improve OCR confidence.",
+    "raw_average_confidence": 78.42,
+    "enhanced_average_confidence": 71.56,
+    "confidence_improvement": -6.85,
+    "raw_detections_count": 52,
+    "enhanced_detections_count": 52,
+    "detection_ratio": 1.0,
+    "final_extracted_text": "Nabihah Details Mcgeehon nabihah mceehon@gmailcom (455) 918-8162 NVH Engineer 127 Oak Street; Little Rock, AR 72201 Profile NVH Engineer with 1 year of experience in the automotive industry, demonstrating expertise in noise, vibration, and harshness analysis and mitigation. Proficient in using advanced simulation tools and testing techniques to optimize vehicle performance and comfort: Skilled in collaborating with cross-functional teams to ensure design objectives are met while adhering to industry standards and regulations. A motivated problem solver, committed to continuous learning and improvement in the field of NVH engineering: Employment History NVH Engineer at Caterpillar Inc,, AR Apr 2023 . Present Led a team that achieved a 2030 reduction in noise levels for heavy machinery, resulting in improved operator comfort and compliance with government regulations: Developed and implemented an innovative vibration isolation system that reduced vibrations by 25% in key components, extending the lifespan of equipment by 1596. Successfully managed a S1.5 million budget for NVH-related projects, ensuring timely completion and maximizing return on investment: Collaborated with cross-functional teams to optimize product designs, resulting in a 1096 improvement in overall machine performance and a 590 reduction in warranty claims related to NVH issues: Associate NVH Engineer at Hytrol Conveyor Company, AR Jul 2022 - Mar 2023 Significantly reduced noiselevelsofconveyor systems by 30%through implementing advanced noise reduction techniques and materials; resulting in improved workplace safety and customer satisfaction. Developed and validated a new simulation model for predicting vibrations in conveyor systems, which increased the accuracy of predictions by 25%0 and streamlined the design process: Successfully led a cross-functional team in the development and Iaunch ofa new conveyor system that increased throughput by 2090, reducing operational costs for clients and boosting sales for the company: Implemented an enhanced testing process for conveyor components, leading to a 15% reduction in warranty claims due to NVH-related issues and contributing to a overall increase in product quality and reliability: Education Bachelor of Science in Mechanical Engineering with a focus on Noise, Vibration, and Harshness (NVH) at University of Arkansas, Fayetteville; AR Aug 2018 - May 2022",
+    "ground_truth": {
+        "available": true,
+        "raw": {
+            "extracted_text": "Nabihah Details Mcgeehon nabihah mceehon@gmailcom (455) 918-8162 NVH Engineer 127 Oak Street; Little Rock, AR 72201 Profile NVH Engineer with 1 year of experience in the automotive industry, demonstrating expertise in noise, vibration, and harshness analysis and mitigation. Proficient in using advanced simulation tools and testing techniques to optimize vehicle performance and comfort: Skilled in collaborating with cross-functional teams to ensure design objectives are met while adhering to industry standards and regulations. A motivated problem solver, committed to continuous learning and improvement in the field of NVH engineering: Employment History NVH Engineer at Caterpillar Inc,, AR Apr 2023 . Present Led a team that achieved a 2030 reduction in noise levels for heavy machinery, resulting in improved operator comfort and compliance with government regulations: Developed and implemented an innovative vibration isolation system that reduced vibrations by 25% in key components, extending the lifespan of equipment by 1596. Successfully managed a S1.5 million budget for NVH-related projects, ensuring timely completion and maximizing return on investment: Collaborated with cross-functional teams to optimize product designs, resulting in a 1096 improvement in overall machine performance and a 590 reduction in warranty claims related to NVH issues: Associate NVH Engineer at Hytrol Conveyor Company, AR Jul 2022 - Mar 2023 Significantly reduced noiselevelsofconveyor systems by 30%through implementing advanced noise reduction techniques and materials; resulting in improved workplace safety and customer satisfaction. Developed and validated a new simulation model for predicting vibrations in conveyor systems, which increased the accuracy of predictions by 25%0 and streamlined the design process: Successfully led a cross-functional team in the development and Iaunch ofa new conveyor system that increased throughput by 2090, reducing operational costs for clients and boosting sales for the company: Implemented an enhanced testing process for conveyor components, leading to a 15% reduction in warranty claims due to NVH-related issues and contributing to a overall increase in product quality and reliability: Education Bachelor of Science in Mechanical Engineering with a focus on Noise, Vibration, and Harshness (NVH) at University of Arkansas, Fayetteville; AR Aug 2018 - May 2022",
+            "character_error_rate": 0.0299,
+            "word_error_rate": 0.0767,
+            "character_accuracy": 97.01,
+            "word_accuracy": 92.33
+        },
+        "enhanced": {
+            "extracted_text": "Nabihah Details Mcgeehon pabihah mcgeehon@gmailcom (455) 918-8162 NVH Engineer 127 Oak Street; Little Rock, AR 72201 Profile NVH Engineer with 1 year of experience in the automotive industry, demonstrating expertise in noise, vibration, and harshness analysis and mitigation. Proficient in using advanced simulation tools and testing techniques to optimize vehicle performance and comfort: Skilled in collaborating with cross-functional teams to ensure design objectives are met while adhering to industry standards and regulations. A motivated problem solver, committed to continuous learning and improvement in the field of NVH engineering: Employment History NVH Engineer at Caterpillar Inc,, AR Ap{ 2023 Ptesent Led a team that achicved J 20%0 reduction in noisc levels for hcavy machinery; resulting in improved operator comfort and compliance with government rcgulations: Dcvclopcd and implemented an innovative vibration isolation system that reduccd vibrations by 25%6 in kcy components, extending the Iifespan of cquipment by 1596. Successfully managed J $15 million budget for NVH-related projects, ensuring timely completion and maximizing return on investment. Collaborated with cross- functional teams to optimize product designs,resulting in J 1096 improvement in overall machine performance and J 590 reduction in warranty claims related to NVH issues: Associate NVH Engineer at Hytrol Conveyor Company,AR Jul2022 Mar 2023 Significantly reduced noiselevelsofconveyor systems by 30%through implementing advanced noise reduction techniques and materials, resulting in improved workplace safety and customer satisfaction. Developed and validated 3 new simulation model for predicting vibrations in conveyor Systems, which increased the accuracy of predictions by 2590 and streamlined the design process: Successfully led a cross-functional team in the development and Iaunch ofa new conveyor System that increased throughput by 2090, reducing operational costs for clients and boosting sales for the company: Implemented an enhanced testing process for conveyor components, leading to a 1596 reduction in warranty claims due to NVH-related issues and contributing to a overall increase in product quality and reliability: Education Bachelor of Science in Mechanical Engineering with a focus on Noise; Vibration, and Harshness (NVH) at University of Arkansas, Fayetteville, AR Aug 2018 - May 2022",
+            "character_error_rate": 0.0402,
+            "word_error_rate": 0.1504,
+            "character_accuracy": 95.98,
+            "word_accuracy": 84.96
+        },
+        "final": {
+            "extracted_text": "Nabihah Details Mcgeehon nabihah mceehon@gmailcom (455) 918-8162 NVH Engineer 127 Oak Street; Little Rock, AR 72201 Profile NVH Engineer with 1 year of experience in the automotive industry, demonstrating expertise in noise, vibration, and harshness analysis and mitigation. Proficient in using advanced simulation tools and testing techniques to optimize vehicle performance and comfort: Skilled in collaborating with cross-functional teams to ensure design objectives are met while adhering to industry standards and regulations. A motivated problem solver, committed to continuous learning and improvement in the field of NVH engineering: Employment History NVH Engineer at Caterpillar Inc,, AR Apr 2023 . Present Led a team that achieved a 2030 reduction in noise levels for heavy machinery, resulting in improved operator comfort and compliance with government regulations: Developed and implemented an innovative vibration isolation system that reduced vibrations by 25% in key components, extending the lifespan of equipment by 1596. Successfully managed a S1.5 million budget for NVH-related projects, ensuring timely completion and maximizing return on investment: Collaborated with cross-functional teams to optimize product designs, resulting in a 1096 improvement in overall machine performance and a 590 reduction in warranty claims related to NVH issues: Associate NVH Engineer at Hytrol Conveyor Company, AR Jul 2022 - Mar 2023 Significantly reduced noiselevelsofconveyor systems by 30%through implementing advanced noise reduction techniques and materials; resulting in improved workplace safety and customer satisfaction. Developed and validated a new simulation model for predicting vibrations in conveyor systems, which increased the accuracy of predictions by 25%0 and streamlined the design process: Successfully led a cross-functional team in the development and Iaunch ofa new conveyor system that increased throughput by 2090, reducing operational costs for clients and boosting sales for the company: Implemented an enhanced testing process for conveyor components, leading to a 15% reduction in warranty claims due to NVH-related issues and contributing to a overall increase in product quality and reliability: Education Bachelor of Science in Mechanical Engineering with a focus on Noise, Vibration, and Harshness (NVH) at University of Arkansas, Fayetteville; AR Aug 2018 - May 2022",
+            "character_error_rate": 0.0299,
+            "word_error_rate": 0.0767,
+            "character_accuracy": 97.01,
+            "word_accuracy": 92.33
+        },
+        "best_choice": "raw",
+        "selection_matches_ground_truth": true
+    }
 }
