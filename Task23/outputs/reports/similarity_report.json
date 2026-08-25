@@ -1,0 +1,122 @@
+[
+    {
+        "query_image": "5.jpg",
+        "results": [
+            {
+                "rank": 1,
+                "image": "4.jpg",
+                "cosine_similarity": 0.7248
+            },
+            {
+                "rank": 2,
+                "image": "1.jpg",
+                "cosine_similarity": 0.6161
+            },
+            {
+                "rank": 3,
+                "image": "2.jpg",
+                "cosine_similarity": 0.6018
+            },
+            {
+                "rank": 4,
+                "image": "22.jpg",
+                "cosine_similarity": 0.5785
+            },
+            {
+                "rank": 5,
+                "image": "3.jpg",
+                "cosine_similarity": 0.5715
+            }
+        ]
+    },
+    {
+        "query_image": "10.jpg",
+        "results": [
+            {
+                "rank": 1,
+                "image": "6.jpg",
+                "cosine_similarity": 0.7136
+            },
+            {
+                "rank": 2,
+                "image": "8.jpg",
+                "cosine_similarity": 0.6669
+            },
+            {
+                "rank": 3,
+                "image": "25.jpg",
+                "cosine_similarity": 0.6501
+            },
+            {
+                "rank": 4,
+                "image": "7.jpg",
+                "cosine_similarity": 0.634
+            },
+            {
+                "rank": 5,
+                "image": "9.jpg",
+                "cosine_similarity": 0.6193
+            }
+        ]
+    },
+    {
+        "query_image": "11.jpg",
+        "results": [
+            {
+                "rank": 1,
+                "image": "15.jpg",
+                "cosine_similarity": 0.6763
+            },
+            {
+                "rank": 2,
+                "image": "13.jpg",
+                "cosine_similarity": 0.5541
+            },
+            {
+                "rank": 3,
+                "image": "23.jpg",
+                "cosine_similarity": 0.5523
+            },
+            {
+                "rank": 4,
+                "image": "12.jpg",
+                "cosine_similarity": 0.5342
+            },
+            {
+                "rank": 5,
+                "image": "14.jpg",
+                "cosine_similarity": 0.5225
+            }
+        ]
+    },
+    {
+        "query_image": "18.jpg",
+        "results": [
+            {
+                "rank": 1,
+                "image": "16.jpg",
+                "cosine_similarity": 0.6708
+            },
+            {
+                "rank": 2,
+                "image": "24.jpg",
+                "cosine_similarity": 0.5601
+            },
+            {
+                "rank": 3,
+                "image": "20.jpg",
+                "cosine_similarity": 0.5475
+            },
+            {
+                "rank": 4,
+                "image": "19.jpg",
+                "cosine_similarity": 0.4839
+            },
+            {
+                "rank": 5,
+                "image": "17.jpg",
+                "cosine_similarity": 0.4151
+            }
+        ]
+    }
+]
