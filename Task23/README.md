@@ -123,7 +123,111 @@ MobileNetV2
 * **Matplotlib:** Used to create visual result grids.
 
 ---
-
+# 5. Workflow
+```text
+                    ┌──────────────────────┐
+                    │       DATASET        │
+                    │      24 Images       │
+                    └──────────┬───────────┘
+                               │
+                               ▼
+                    ┌──────────────────────┐
+                    │   STEP 1             │
+                    │   Load Image Paths   │
+                    └──────────┬───────────┘
+                               │
+                               ▼
+                    Supported Images
+                    1.jpg ... 24.jpg
+                               │
+                               ▼
+                    ┌──────────────────────┐
+                    │   STEP 2             │
+                    │ Load MobileNetV2      │
+                    │ Pretrained Model      │
+                    └──────────┬───────────┘
+                               │
+                               ▼
+                    ┌──────────────────────┐
+                    │   STEP 3             │
+                    │ Extract Features     │
+                    │ from Every Image     │
+                    └──────────┬───────────┘
+                               │
+                               ▼
+                    ┌──────────────────────┐
+                    │  Image Embeddings    │
+                    │  1280 values/image   │
+                    └──────────┬───────────┘
+                               │
+                 ┌─────────────┴─────────────┐
+                 │                           │
+                 ▼                           ▼
+       ┌──────────────────┐        ┌──────────────────┐
+       │ SIMILARITY       │        │ DUPLICATE        │
+       │ SEARCH           │        │ DETECTION        │
+       └────────┬─────────┘        └────────┬─────────┘
+                │                           │
+                ▼                           ▼
+       Selected Query Images          All Image Pairs
+       5, 10, 11, 18.jpg                    │
+                │                           ▼
+                ▼                     Calculate pHash
+       Compare Embeddings                   │
+                │                           ▼
+                ▼                     Hamming Distance
+       Cosine Similarity                    │
+                │                           ▼
+                ▼                     Threshold = 8
+       Sort Highest → Lowest                │
+                │                           ▼
+                ▼                     Near Duplicates
+       Select Top 5                         │
+                │                           │
+                ▼                           ▼
+       Similarity Grids              Duplicate Results
+                │                           │
+                └─────────────┬─────────────┘
+                              │
+                              ▼
+                    ┌──────────────────────┐
+                    │ STEP 6               │
+                    │ Modified Image Test  │
+                    └──────────┬───────────┘
+                               │
+                               ▼
+                       Original: 21.jpg
+                               │
+              ┌────────────────┼────────────────┐
+              ▼                ▼                ▼
+       Brightness Version   Resized Version   Cropped Version
+              │                │                │
+              └────────────────┼────────────────┘
+                               │
+                    ┌──────────┴──────────┐
+                    ▼                     ▼
+              CNN Similarity           pHash
+                    │                     │
+                    ▼                     ▼
+             Cosine Score          Hamming Distance
+                    │                     │
+                    └──────────┬──────────┘
+                               ▼
+                     Compare Results
+                               │
+                               ▼
+                     Duplicate Test Grid
+                               │
+                               ▼
+                    ┌──────────────────────┐
+                    │ STEP 7               │
+                    │ Save Reports         │
+                    └──────────┬───────────┘
+                               │
+             ┌─────────────────┼─────────────────┐
+             ▼                 ▼                 ▼
+       Similarity CSV    Similarity JSON    Duplicate JSON
+```
 # Conclusion
 
 The **Similar & Duplicate Image Finder** successfully combines two different computer vision techniques to analyze image relationships:
