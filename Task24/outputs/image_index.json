@@ -1,0 +1,122 @@
+[
+    {
+        "image": "1.jpg",
+        "caption": "a car driving down a mountain road",
+        "embedding_file": "D:\\MLB-Internship\\Task24\\outputs\\embeddings\\1.npy",
+        "embedding_dimension": 512
+    },
+    {
+        "image": "10.jpg",
+        "caption": "a little boy playing in the mud puddle",
+        "embedding_file": "D:\\MLB-Internship\\Task24\\outputs\\embeddings\\10.npy",
+        "embedding_dimension": 512
+    },
+    {
+        "image": "11.jpg",
+        "caption": "a woman is injured after a car accident",
+        "embedding_file": "D:\\MLB-Internship\\Task24\\outputs\\embeddings\\11.npy",
+        "embedding_dimension": 512
+    },
+    {
+        "image": "12.jpg",
+        "caption": "a car is stuck in the snow",
+        "embedding_file": "D:\\MLB-Internship\\Task24\\outputs\\embeddings\\12.npy",
+        "embedding_dimension": 512
+    },
+    {
+        "image": "13.jpg",
+        "caption": "a chef is cooking in a kitchen with a lot of smoke",
+        "embedding_file": "D:\\MLB-Internship\\Task24\\outputs\\embeddings\\13.npy",
+        "embedding_dimension": 512
+    },
+    {
+        "image": "14.jpg",
+        "caption": "a family having a picnic in the park",
+        "embedding_file": "D:\\MLB-Internship\\Task24\\outputs\\embeddings\\14.npy",
+        "embedding_dimension": 512
+    },
+    {
+        "image": "15.jpg",
+        "caption": "a group of people standing around a car",
+        "embedding_file": "D:\\MLB-Internship\\Task24\\outputs\\embeddings\\15.npy",
+        "embedding_dimension": 512
+    },
+    {
+        "image": "16.jpg",
+        "caption": "two kittens playing with a soccer ball",
+        "embedding_file": "D:\\MLB-Internship\\Task24\\outputs\\embeddings\\16.npy",
+        "embedding_dimension": 512
+    },
+    {
+        "image": "17.jpg",
+        "caption": "a family picnics in the park",
+        "embedding_file": "D:\\MLB-Internship\\Task24\\outputs\\embeddings\\17.npy",
+        "embedding_dimension": 512
+    },
+    {
+        "image": "18.jpg",
+        "caption": "a woman is sitting on a skateboard on the street",
+        "embedding_file": "D:\\MLB-Internship\\Task24\\outputs\\embeddings\\18.npy",
+        "embedding_dimension": 512
+    },
+    {
+        "image": "19.jpg",
+        "caption": "a woman cooking in a kitchen",
+        "embedding_file": "D:\\MLB-Internship\\Task24\\outputs\\embeddings\\19.npy",
+        "embedding_dimension": 512
+    },
+    {
+        "image": "2.jpg",
+        "caption": "a man driving a car on a road",
+        "embedding_file": "D:\\MLB-Internship\\Task24\\outputs\\embeddings\\2.npy",
+        "embedding_dimension": 512
+    },
+    {
+        "image": "20.jpg",
+        "caption": "a woman standing in a kitchen with a counter top",
+        "embedding_file": "D:\\MLB-Internship\\Task24\\outputs\\embeddings\\20.npy",
+        "embedding_dimension": 512
+    },
+    {
+        "image": "3.jpg",
+        "caption": "two people riding bikes on a city street",
+        "embedding_file": "D:\\MLB-Internship\\Task24\\outputs\\embeddings\\3.npy",
+        "embedding_dimension": 512
+    },
+    {
+        "image": "4.jpg",
+        "caption": "a man riding a bike down the street",
+        "embedding_file": "D:\\MLB-Internship\\Task24\\outputs\\embeddings\\4.npy",
+        "embedding_dimension": 512
+    },
+    {
+        "image": "5.jpg",
+        "caption": "a black dog running through the grass",
+        "embedding_file": "D:\\MLB-Internship\\Task24\\outputs\\embeddings\\5.npy",
+        "embedding_dimension": 512
+    },
+    {
+        "image": "6.jpg",
+        "caption": "children playing with a ball in the park",
+        "embedding_file": "D:\\MLB-Internship\\Task24\\outputs\\embeddings\\6.npy",
+        "embedding_dimension": 512
+    },
+    {
+        "image": "7.jpg",
+        "caption": "a small car parked on the side of a road",
+        "embedding_file": "D:\\MLB-Internship\\Task24\\outputs\\embeddings\\7.npy",
+        "embedding_dimension": 512
+    },
+    {
+        "image": "8.jpg",
+        "caption": "a group of doctors walking down a hospital corridor",
+        "embedding_file": "D:\\MLB-Internship\\Task24\\outputs\\embeddings\\8.npy",
+        "embedding_dimension": 512
+    },
+    {
+        "image": "9.jpg",
+        "caption": "a dog running in a field with a ball",
+        "embedding_file": "D:\\MLB-Internship\\Task24\\outputs\\embeddings\\9.npy",
+        "embedding_dimension": 512
+    }
+]

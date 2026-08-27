@@ -1,0 +1,146 @@
+[
+    {
+        "query": "an emergency situation",
+        "top_k": 5,
+        "results": [
+            {
+                "image": "8.jpg",
+                "similarity": 0.2398,
+                "caption": "a group of doctors walking down a hospital corridor",
+                "rank": 1
+            },
+            {
+                "image": "15.jpg",
+                "similarity": 0.2383,
+                "caption": "a group of people standing around a car",
+                "rank": 2
+            },
+            {
+                "image": "11.jpg",
+                "similarity": 0.2243,
+                "caption": "a woman is injured after a car accident",
+                "rank": 3
+            },
+            {
+                "image": "18.jpg",
+                "similarity": 0.2172,
+                "caption": "a woman is sitting on a skateboard on the street",
+                "rank": 4
+            },
+            {
+                "image": "12.jpg",
+                "similarity": 0.2109,
+                "caption": "a car is stuck in the snow",
+                "rank": 5
+            }
+        ]
+    },
+    {
+        "query": "someone is playing or having fun",
+        "top_k": 5,
+        "results": [
+            {
+                "image": "16.jpg",
+                "similarity": 0.2544,
+                "caption": "two kittens playing with a soccer ball",
+                "rank": 1
+            },
+            {
+                "image": "5.jpg",
+                "similarity": 0.2378,
+                "caption": "a black dog running through the grass",
+                "rank": 2
+            },
+            {
+                "image": "6.jpg",
+                "similarity": 0.2237,
+                "caption": "children playing with a ball in the park",
+                "rank": 3
+            },
+            {
+                "image": "9.jpg",
+                "similarity": 0.2208,
+                "caption": "a dog running in a field with a ball",
+                "rank": 4
+            },
+            {
+                "image": "10.jpg",
+                "similarity": 0.2193,
+                "caption": "a little boy playing in the mud puddle",
+                "rank": 5
+            }
+        ]
+    },
+    {
+        "query": "people working or doing their jobs",
+        "top_k": 5,
+        "results": [
+            {
+                "image": "18.jpg",
+                "similarity": 0.2353,
+                "caption": "a woman is sitting on a skateboard on the street",
+                "rank": 1
+            },
+            {
+                "image": "8.jpg",
+                "similarity": 0.233,
+                "caption": "a group of doctors walking down a hospital corridor",
+                "rank": 2
+            },
+            {
+                "image": "11.jpg",
+                "similarity": 0.2183,
+                "caption": "a woman is injured after a car accident",
+                "rank": 3
+            },
+            {
+                "image": "10.jpg",
+                "similarity": 0.2171,
+                "caption": "a little boy playing in the mud puddle",
+                "rank": 4
+            },
+            {
+                "image": "13.jpg",
+                "similarity": 0.2167,
+                "caption": "a chef is cooking in a kitchen with a lot of smoke",
+                "rank": 5
+            }
+        ]
+    },
+    {
+        "query": "cars on the road",
+        "top_k": 5,
+        "results": [
+            {
+                "image": "1.jpg",
+                "similarity": 0.2572,
+                "caption": "a car driving down a mountain road",
+                "rank": 1
+            },
+            {
+                "image": "2.jpg",
+                "similarity": 0.2485,
+                "caption": "a man driving a car on a road",
+                "rank": 2
+            },
+            {
+                "image": "7.jpg",
+                "similarity": 0.2342,
+                "caption": "a small car parked on the side of a road",
+                "rank": 3
+            },
+            {
+                "image": "18.jpg",
+                "similarity": 0.2276,
+                "caption": "a woman is sitting on a skateboard on the street",
+                "rank": 4
+            },
+            {
+                "image": "12.jpg",
+                "similarity": 0.2066,
+                "caption": "a car is stuck in the snow",
+                "rank": 5
+            }
+        ]
+    }
+]
